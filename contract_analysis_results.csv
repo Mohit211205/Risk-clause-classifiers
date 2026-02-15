@@ -1,5 +1,5 @@
-Clause_Number,Clause_Text,Category,Confidence,Risk_Score
-1,"htm FORM OF INITIAL SUMMARY PROSPECTUS
+Clause_Number,Category,Confidence,Risk_Score,Clause_Text
+1,Termination,0.218,3,"htm FORM OF INITIAL SUMMARY PROSPECTUS
 INITIAL SUMMARY PROSPECTUS
 FOR
 DEFERRED VARIABLE ANNUITY
@@ -15,17 +15,17 @@ PO Box 178, Philadelphia, Pennsylvania 19105
   
 This Summary Prospectus (the “Summary Prospectus”) describes an Individual Variable and Fixed Deferred
 Annuity with flexible purchase payments contract (the “Contract”) issued by The Penn Insurance and Annuity Company
-(“PIA,” the “Company,” “we,” “us,” or “our”)",Termination,0.218,3
-2,"The Summary Prospectus contains information that the Contract owner
-should know before purchasing a Contract",Warranty,0.574,2
-3,Please read it carefully and save it for future reference,Payment Terms,0.404,2
-4,"This Summary
-Prospectus is not an offering in any state, country, or jurisdiction in which we are not authorized to sell the Contracts",Governing Law,0.444,1
-5,The Contract is not available in New York,Governing Law,0.685,1
-6,The Contract is an agreement between you and PIA,Termination,0.406,3
-7,"You agree to make one or more payments to us and
-we agree to make annuity and other payments to you at a future date",Indemnification,0.281,3
-8,"The Contract:
+(“PIA,” the “Company,” “we,” “us,” or “our”)"
+2,Warranty,0.574,2,"The Summary Prospectus contains information that the Contract owner
+should know before purchasing a Contract"
+3,Payment Terms,0.404,2,Please read it carefully and save it for future reference
+4,Governing Law,0.444,1,"This Summary
+Prospectus is not an offering in any state, country, or jurisdiction in which we are not authorized to sell the Contracts"
+5,Governing Law,0.685,1,The Contract is not available in New York
+6,Termination,0.406,3,The Contract is an agreement between you and PIA
+7,Indemnification,0.281,3,"You agree to make one or more payments to us and
+we agree to make annuity and other payments to you at a future date"
+8,Warranty,0.559,2,"The Contract:
  
  
 •
@@ -57,32 +57,32 @@ a specified period or for the lifetime of the annuitant(s);
 •
   offers a selection of optional benefits at an additional charge including the Guaranteed Income
 Rider, Accumulation Income Rider, Enhanced Death Benefit Rider, and Guaranteed Minimum
-Accumulation Rider (although rider availability may vary by state and may change in the future)",Warranty,0.559,2
-9,"Before you invest, you should also review the Prospectus for the Contract, which contains more information
-about the Contract’s features, benefits, and risks",Warranty,0.535,2
-10,"You can obtain the Prospectus online at
-www",Termination,0.191,3
-11,com/for-individuals-and-businesses/products-and-performance/performance-and-rates,Intellectual Property,0.377,2
-12,"You can also
+Accumulation Rider (although rider availability may vary by state and may change in the future)"
+9,Warranty,0.535,2,"Before you invest, you should also review the Prospectus for the Contract, which contains more information
+about the Contract’s features, benefits, and risks"
+10,Termination,0.191,3,"You can obtain the Prospectus online at
+www"
+11,Intellectual Property,0.377,2,com/for-individuals-and-businesses/products-and-performance/performance-and-rates
+12,Warranty,0.738,2,"You can also
 request this information at no cost by calling 1-800-523-0650 or by sending an email request to
-FundOperations@pennmutual",Warranty,0.738,2
-13,"If you are a new purchaser of a Contract, you may cancel your Contract within 10 days of
-receiving it without paying fees or penalties",Warranty,0.385,2
-14,"In some states, this “Free Look” or cancellation period may be longer",Termination,0.411,3
-15,"If
-you cancel your Contract, in most states you will receive your Contract value and any fees or charges deducted",Termination,0.344,3
-16,"In
-some states, you will receive a full refund of the amount of any premiums you have paid, if greater than Contract value",Warranty,0.348,2
-17,"You should review the Prospectus, or consult with your financial professional, for additional information about the
-specific cancellation terms that apply",Warranty,0.322,2
-18,"Additional information about certain investment products, including variable annuities, has been prepared by
-the Securities and Exchange Commission’s staff and is available at Investor",Warranty,0.396,2
-19,Contracts have risks including risk of loss of the amount invested,Warranty,0.357,2
-20,"Contracts are not deposits of, or
+FundOperations@pennmutual"
+13,Warranty,0.385,2,"If you are a new purchaser of a Contract, you may cancel your Contract within 10 days of
+receiving it without paying fees or penalties"
+14,Termination,0.411,3,"In some states, this “Free Look” or cancellation period may be longer"
+15,Termination,0.344,3,"If
+you cancel your Contract, in most states you will receive your Contract value and any fees or charges deducted"
+16,Warranty,0.348,2,"In
+some states, you will receive a full refund of the amount of any premiums you have paid, if greater than Contract value"
+17,Warranty,0.322,2,"You should review the Prospectus, or consult with your financial professional, for additional information about the
+specific cancellation terms that apply"
+18,Warranty,0.396,2,"Additional information about certain investment products, including variable annuities, has been prepared by
+the Securities and Exchange Commission’s staff and is available at Investor"
+19,Warranty,0.357,2,Contracts have risks including risk of loss of the amount invested
+20,Confidentiality,0.354,1,"Contracts are not deposits of, or
 guaranteed or endorsed by, any bank and are not federally insured by the FDIC, Federal Reserve Board, or any other
-agency",Confidentiality,0.354,1
-21,An investment in the Contract involves investment risk including the possible loss of principal,Warranty,0.48,2
-22,"TABLE OF CONTENTS
+agency"
+21,Warranty,0.48,2,An investment in the Contract involves investment risk including the possible loss of principal
+22,Warranty,0.327,2,"TABLE OF CONTENTS
  
 Section
    Page 
@@ -118,248 +118,248 @@ Appendix A Portfolio Companies Available Under the Deferred Variable Annuity Con
 **********
 The prospectuses of the mutual fund portfolios that are available in the Variable Investment Options (the
 “Portfolios” or the “Portfolio Companies”) contain important information that you should know about the variable
-investment options that may be made under the Contract",Warranty,0.327,2
-23,"You should read the prospectuses of the available Portfolios
-carefully before you invest",Warranty,0.439,2
-24,"You can obtain the prospectuses for the Portfolios online at
-www",Warranty,0.431,2
-25,com/for-individuals-and-businesses/products-and-performance/performance-and-rates,Intellectual Property,0.377,2
-26,"You can also
+investment options that may be made under the Contract"
+23,Warranty,0.439,2,"You should read the prospectuses of the available Portfolios
+carefully before you invest"
+24,Warranty,0.431,2,"You can obtain the prospectuses for the Portfolios online at
+www"
+25,Intellectual Property,0.377,2,com/for-individuals-and-businesses/products-and-performance/performance-and-rates
+26,Warranty,0.738,2,"You can also
 request this information at no cost by calling 1-800-523-0650 or by sending an email request to
-FundOperations@pennmutual",Warranty,0.738,2
-27,"This Summary Prospectus (and the variable annuity) is not considered an offering in any jurisdiction where
-such offering may not be lawfully made",Indemnification,0.395,3
-28,"We do not authorize any information or representations regarding the offering
+FundOperations@pennmutual"
+27,Indemnification,0.395,3,"This Summary Prospectus (and the variable annuity) is not considered an offering in any jurisdiction where
+such offering may not be lawfully made"
+28,Indemnification,0.393,3,"We do not authorize any information or representations regarding the offering
 described in this Summary Prospectus, the Prospectus, and the Statement of Additional Information (the “SAI”) other
-than as contained in these materials or any supplements to them, or in any other sales material we authorize",Indemnification,0.393,3
-29,"2
+than as contained in these materials or any supplements to them, or in any other sales material we authorize"
+29,Warranty,0.596,2,"2
  
 DEFINITIONS
 The following key terms and their definitions are included to help make this Summary Prospectus as readable and
-understandable for you as possible",Warranty,0.596,2
-30,"Other terms used within this Summary Prospectus are defined within the text
-where they appear",Warranty,0.333,2
-31,Not all of the definitions of those terms are repeated in this glossary,Governing Law,0.277,1
-32,"More detailed information
-concerning the terms defined below is in the appropriate sections of this Summary Prospectus or the Prospectus",Governing Law,0.284,1
-33,"Accumulation Benefit Base: The amount used to determine the minimum value available at the end of the
-Accumulation Benefit Period under the Guaranteed Minimum Accumulation Rider",Warranty,0.507,2
-34,"Accumulation Benefit Percentage: A percentage used to determine the minimum value available at the
+understandable for you as possible"
+30,Warranty,0.333,2,"Other terms used within this Summary Prospectus are defined within the text
+where they appear"
+31,Governing Law,0.277,1,Not all of the definitions of those terms are repeated in this glossary
+32,Governing Law,0.284,1,"More detailed information
+concerning the terms defined below is in the appropriate sections of this Summary Prospectus or the Prospectus"
+33,Warranty,0.507,2,"Accumulation Benefit Base: The amount used to determine the minimum value available at the end of the
+Accumulation Benefit Period under the Guaranteed Minimum Accumulation Rider"
+34,Warranty,0.547,2,"Accumulation Benefit Percentage: A percentage used to determine the minimum value available at the
 end of the Accumulation Benefit Period under the Guaranteed Minimum Accumulation Rider, which varies
-depending on the Accumulation Benefit Period selected",Warranty,0.547,2
-35,"Accumulation Benefit Period: Depending on the available option selected under the Guaranteed Minimum
+depending on the Accumulation Benefit Period selected"
+35,Warranty,0.367,2,"Accumulation Benefit Period: Depending on the available option selected under the Guaranteed Minimum
 Accumulation Rider, a period of time of either seven or 10 years at Contract issue, and five, seven, or 10
-years upon electing a Reset Benefit",Warranty,0.367,2
-36,"Accumulation Income Benefit Base: The amount used to determine the Guaranteed Annual Withdrawal
-Amount under the Accumulation Income Rider",Warranty,0.283,2
-37,"Accumulation Income Rider: An optional benefit that may be added to your Contract, for an additional
-charge, which provides for a guaranteed Lifetime Withdrawal benefit",Termination,0.505,3
-38,"Accumulation Period: A period that begins with your first Purchase Payment and ends on the Annuity
-Date",Warranty,0.294,2
-39,"Accumulation Unit: A unit of measure used to compute the Variable Account Value under the Contract prior
-to the Annuity Date",Warranty,0.554,2
-40,Actual Age: True calendar age in exact years (including partial year),Intellectual Property,0.524,2
-41,"Administrative Office: The Penn Insurance and Annuity Company, Administrative Office, 600 Dresher
-Road, Horsham, Pennsylvania 19044",Indemnification,0.177,3
-42,"Age-Based Lifetime Withdrawal Rate: The age-based component of the Lifetime Withdrawal Rate (based
+years upon electing a Reset Benefit"
+36,Warranty,0.283,2,"Accumulation Income Benefit Base: The amount used to determine the Guaranteed Annual Withdrawal
+Amount under the Accumulation Income Rider"
+37,Termination,0.505,3,"Accumulation Income Rider: An optional benefit that may be added to your Contract, for an additional
+charge, which provides for a guaranteed Lifetime Withdrawal benefit"
+38,Warranty,0.294,2,"Accumulation Period: A period that begins with your first Purchase Payment and ends on the Annuity
+Date"
+39,Warranty,0.554,2,"Accumulation Unit: A unit of measure used to compute the Variable Account Value under the Contract prior
+to the Annuity Date"
+40,Intellectual Property,0.524,2,Actual Age: True calendar age in exact years (including partial year)
+41,Indemnification,0.177,3,"Administrative Office: The Penn Insurance and Annuity Company, Administrative Office, 600 Dresher
+Road, Horsham, Pennsylvania 19044"
+42,Warranty,0.32,2,"Age-Based Lifetime Withdrawal Rate: The age-based component of the Lifetime Withdrawal Rate (based
 on the age of the younger Covered Life) under the Lifetime Withdrawal Guarantee of the Accumulation
-Income Rider",Warranty,0.32,2
-43,Age Nearest Birthday: Age rounded to nearest whole number of years,Intellectual Property,0.948,2
-44,"Annuitant: The individual named in the Contract whose lifetime is used as a measuring life for all annuity
-options, benefits, and features",Warranty,0.227,2
-45,"Annuitization: The process by which you convert your Contract Value into a stream of regular income
-payments",Warranty,0.552,2
-46,"Annuity Date: The date on which annuity payments begin, and the Contract transitions from the
-accumulation phase to the Annuitization (income) phase",Warranty,0.367,2
-47,"The date annuity payments are scheduled to begin
-is shown in the Contract and will never be later than the maximum maturity date",Payment Terms,0.308,2
-48,"Annuity Payout Period: The period of time, starting on the Annuity Date, during which we make annuity
-payments",Payment Terms,0.357,2
-49,Base Contract: The Contract without optional benefits,Termination,0.642,3
-50,"Beneficiary: The person(s) named by the Contract Owner to receive the death benefit payable upon the
-death of the Contract Owner or Annuitant",Indemnification,0.88,3
-51,"Code: The Internal Revenue Code of 1986, as amended",Governing Law,0.507,1
-52,"3
-Company: The Penn Insurance and Annuity Company",Indemnification,0.219,3
-53,"Also referred to as “we,” “our,” and “us,” or “PIA",Governing Law,0.195,1
-54,"”
+Income Rider"
+43,Intellectual Property,0.948,2,Age Nearest Birthday: Age rounded to nearest whole number of years
+44,Warranty,0.227,2,"Annuitant: The individual named in the Contract whose lifetime is used as a measuring life for all annuity
+options, benefits, and features"
+45,Warranty,0.552,2,"Annuitization: The process by which you convert your Contract Value into a stream of regular income
+payments"
+46,Warranty,0.367,2,"Annuity Date: The date on which annuity payments begin, and the Contract transitions from the
+accumulation phase to the Annuitization (income) phase"
+47,Payment Terms,0.308,2,"The date annuity payments are scheduled to begin
+is shown in the Contract and will never be later than the maximum maturity date"
+48,Payment Terms,0.357,2,"Annuity Payout Period: The period of time, starting on the Annuity Date, during which we make annuity
+payments"
+49,Termination,0.642,3,Base Contract: The Contract without optional benefits
+50,Indemnification,0.88,3,"Beneficiary: The person(s) named by the Contract Owner to receive the death benefit payable upon the
+death of the Contract Owner or Annuitant"
+51,Governing Law,0.507,1,"Code: The Internal Revenue Code of 1986, as amended"
+52,Indemnification,0.219,3,"3
+Company: The Penn Insurance and Annuity Company"
+53,Governing Law,0.195,1,"Also referred to as “we,” “our,” and “us,” or “PIA"
+54,Indemnification,0.721,3,"”
 Contingent Annuitant: The individual designated by the Contract Owner and named in the Contract who
 will become the Annuitant in the event that the Annuitant dies before the Contract is terminated or
-annuitized",Indemnification,0.721,3
-55,Contract: The combination variable and fixed annuity Contract described in this Summary Prospectus,Governing Law,0.376,1
-56,Contract Anniversary: Any subsequent anniversary date of the Contract Date,Termination,0.379,3
-57,"All values that are
-determined on a Contract Anniversary are based on the next close of regular trading on the NYSE",Intellectual Property,0.325,2
-58,"To the
+annuitized"
+55,Governing Law,0.376,1,Contract: The combination variable and fixed annuity Contract described in this Summary Prospectus
+56,Termination,0.379,3,Contract Anniversary: Any subsequent anniversary date of the Contract Date
+57,Intellectual Property,0.325,2,"All values that are
+determined on a Contract Anniversary are based on the next close of regular trading on the NYSE"
+58,Intellectual Property,0.25,2,"To the
 extent the Contract Anniversary falls on a date other than a business day any value to be determined as of
 the Contract Anniversary will be determined as of the close of regular trading of the NYSE on the next
-business day",Intellectual Property,0.25,2
-59,Contract Date: The date the Contract is issued,Warranty,0.274,2
-60,"Contract Owner or Owner: The person or entity, named in the Contract, unless amended by any
-subsequent change in ownership, entitled to exercise all of the ownership rights under the Contract",Indemnification,0.875,3
-61,"Contract Specifications Page: The Contract Specifications Page contains your Contract’s individual
-specifications",Warranty,0.793,2
-62,Contract Value: The sum of the Variable Account Value and the Fixed Account Value,Warranty,0.723,2
-63,"Contract Year: The time period between Contract Anniversaries; the first Contract Year runs from the
-Contract Date to the first Contract Anniversary",Termination,0.33,3
-64,"Contract Year Quarter: Each three-month period during a Contract Year, with the first Contract Year
-Quarter in any Contract Year starting on the Contract Anniversary",Termination,0.334,3
-65,"Covered Life: The person designated in the Contract upon whose age/lifetime the features and benefits of
-any Rider are based",Indemnification,0.434,3
-66,"Death Benefit Enhancement: The amount by which the Enhanced Death Benefit Base exceeds the
-Standard Death Benefit payable under the Contract",Warranty,0.228,2
-67,"Deferral Phase: The period prior to the exercise of withdrawals under the Lifetime Withdrawal Guarantee of
-the Accumulation Income Rider or under the Living Benefit Guarantee of the Guaranteed Income Rider",Warranty,0.262,2
-68,"Early Access Withdrawal: You are permitted to take withdrawals during the Deferral Phase which do not
+business day"
+59,Warranty,0.274,2,Contract Date: The date the Contract is issued
+60,Indemnification,0.875,3,"Contract Owner or Owner: The person or entity, named in the Contract, unless amended by any
+subsequent change in ownership, entitled to exercise all of the ownership rights under the Contract"
+61,Warranty,0.793,2,"Contract Specifications Page: The Contract Specifications Page contains your Contract’s individual
+specifications"
+62,Warranty,0.723,2,Contract Value: The sum of the Variable Account Value and the Fixed Account Value
+63,Termination,0.33,3,"Contract Year: The time period between Contract Anniversaries; the first Contract Year runs from the
+Contract Date to the first Contract Anniversary"
+64,Termination,0.334,3,"Contract Year Quarter: Each three-month period during a Contract Year, with the first Contract Year
+Quarter in any Contract Year starting on the Contract Anniversary"
+65,Indemnification,0.434,3,"Covered Life: The person designated in the Contract upon whose age/lifetime the features and benefits of
+any Rider are based"
+66,Warranty,0.228,2,"Death Benefit Enhancement: The amount by which the Enhanced Death Benefit Base exceeds the
+Standard Death Benefit payable under the Contract"
+67,Warranty,0.262,2,"Deferral Phase: The period prior to the exercise of withdrawals under the Lifetime Withdrawal Guarantee of
+the Accumulation Income Rider or under the Living Benefit Guarantee of the Guaranteed Income Rider"
+68,Warranty,0.455,2,"Early Access Withdrawal: You are permitted to take withdrawals during the Deferral Phase which do not
 initiate the Withdrawal Phase under the Accumulation Income Rider and under the Guaranteed Income
-Rider",Warranty,0.455,2
-69,"Early Access Withdrawals reduce the applicable benefit base by the greater of the dollar amount of
+Rider"
+69,Termination,0.463,3,"Early Access Withdrawals reduce the applicable benefit base by the greater of the dollar amount of
 the withdrawal or a proportional reduction, which could significantly reduce the Rider’s benefit and even
-terminate the Rider and the Contract",Termination,0.463,3
-70,"Effective Waiting Bonus: The component of the Lifetime Withdrawal Rate that is based on the age of each
-Purchase Payment under the Lifetime Withdrawal Guarantee of the Accumulation Income Rider",Warranty,0.539,2
-71,"Enhanced Death Benefit Base: The value used to determine the amount of the Death Benefit
-Enhancement",Warranty,0.452,2
-72,"Enhanced Death Benefit Rider: An optional benefit, for an additional charge, which may be added to your
+terminate the Rider and the Contract"
+70,Warranty,0.539,2,"Effective Waiting Bonus: The component of the Lifetime Withdrawal Rate that is based on the age of each
+Purchase Payment under the Lifetime Withdrawal Guarantee of the Accumulation Income Rider"
+71,Warranty,0.452,2,"Enhanced Death Benefit Base: The value used to determine the amount of the Death Benefit
+Enhancement"
+72,Termination,0.486,3,"Enhanced Death Benefit Rider: An optional benefit, for an additional charge, which may be added to your
 Contract which provides for the payment of the Death Benefit Enhancement in addition to the Standard
-Death Benefit",Termination,0.486,3
-73,"Excess Withdrawal: Any withdrawal during the Withdrawal Phase in excess of the Guaranteed Annual
-Withdrawal Amount under the Accumulation Income Rider and under the Guaranteed Income Rider",Warranty,0.265,2
-74,"Fixed Account: The account in which amounts are held for the Contract under all Fixed Account Options
-prior to the Annuity Date",Indemnification,0.387,3
-75,"Fixed Account Option: The Investment Options available under the Company’s Fixed Account, including
-the Short-Term Fixed Account and the Fixed Dollar Cost Averaging Options",Warranty,0.657,2
-76,"4
+Death Benefit"
+73,Warranty,0.265,2,"Excess Withdrawal: Any withdrawal during the Withdrawal Phase in excess of the Guaranteed Annual
+Withdrawal Amount under the Accumulation Income Rider and under the Guaranteed Income Rider"
+74,Indemnification,0.387,3,"Fixed Account: The account in which amounts are held for the Contract under all Fixed Account Options
+prior to the Annuity Date"
+75,Warranty,0.657,2,"Fixed Account Option: The Investment Options available under the Company’s Fixed Account, including
+the Short-Term Fixed Account and the Fixed Dollar Cost Averaging Options"
+76,Warranty,0.407,2,"4
 Fixed Account Value: The value of the amounts held in all Fixed Account Options of the Fixed Account for
-this Contract",Warranty,0.407,2
-77,"Fixed Dollar Cost Averaging Options: The Investment Options available under the Fixed Account that
+this Contract"
+77,Warranty,0.714,2,"Fixed Dollar Cost Averaging Options: The Investment Options available under the Fixed Account that
 provide for credited interest at annual rates declared by the Company and are for use in the Dollar Cost
-Averaging Program",Warranty,0.714,2
-78,"Free Withdrawal Amount: The amount, expressed as a percentage of Purchase Payments, a Contract
-Owner may withdraw each year during the Surrender Charge Period without incurring a Surrender Charge",Warranty,0.379,2
-79,"Guaranteed Annual Withdrawal Amount (Accumulation Income Rider): The annual amount you may
+Averaging Program"
+78,Warranty,0.379,2,"Free Withdrawal Amount: The amount, expressed as a percentage of Purchase Payments, a Contract
+Owner may withdraw each year during the Surrender Charge Period without incurring a Surrender Charge"
+79,Warranty,0.464,2,"Guaranteed Annual Withdrawal Amount (Accumulation Income Rider): The annual amount you may
 withdraw under the Accumulation Benefit Rider and based on the amount of the Accumulation Income
-Benefit Base and the Lifetime Withdrawal Rate that applies for the Covered Life(ves) at that time",Warranty,0.464,2
-80,"Guaranteed Annual Withdrawal Amount (Guaranteed Income Rider): The annual amount you may
+Benefit Base and the Lifetime Withdrawal Rate that applies for the Covered Life(ves) at that time"
+80,Warranty,0.341,2,"Guaranteed Annual Withdrawal Amount (Guaranteed Income Rider): The annual amount you may
 withdraw under the Guaranteed Income Rider and based on the amount of the Guaranteed Income Benefit
-Base and the withdrawal rate under the Living Benefit Guarantee at that time",Warranty,0.341,2
-81,"Guaranteed Income Benefit Base: The amount used to determine the Guaranteed Annual Withdrawal
-Amount under the Guaranteed Income Rider",Warranty,0.309,2
-82,"Guaranteed Income Rider: An optional benefit that may be added to your Contract, for an additional
-charge, which provides for guaranteed minimum withdrawals under the Living Benefit Guarantee",Termination,0.407,3
-83,"Guaranteed Minimum Accumulation Benefit Amount: The guaranteed minimum amount which will be
+Base and the withdrawal rate under the Living Benefit Guarantee at that time"
+81,Warranty,0.309,2,"Guaranteed Income Benefit Base: The amount used to determine the Guaranteed Annual Withdrawal
+Amount under the Guaranteed Income Rider"
+82,Termination,0.407,3,"Guaranteed Income Rider: An optional benefit that may be added to your Contract, for an additional
+charge, which provides for guaranteed minimum withdrawals under the Living Benefit Guarantee"
+83,Warranty,0.45,2,"Guaranteed Minimum Accumulation Benefit Amount: The guaranteed minimum amount which will be
 available as your Contract Value at the end of the Accumulation Benefit Period if you elect to add the
-Guaranteed Minimum Accumulation Rider optional benefit to your Contract",Warranty,0.45,2
-84,"Guaranteed Minimum Accumulation Rider: An optional benefit that may be added to your Contract, for an
+Guaranteed Minimum Accumulation Rider optional benefit to your Contract"
+84,Termination,0.443,3,"Guaranteed Minimum Accumulation Rider: An optional benefit that may be added to your Contract, for an
 additional charge, at issue which provides for return of minimum value at the end of the Accumulation
-Benefit Period",Termination,0.443,3
-85,Initial Purchase Payment: The sum of all deposits made into the Contract on the Contract Date,Indemnification,0.366,3
-86,"Investment Options: The Contract’s investment options that consist of the Variable Investment Options and
-the Fixed Account Options",Warranty,0.524,2
-87,"Joint Annuitant: The individual other than the Annuitant (as designated in the Contract) whose lifetime is
-also used as a measuring life for all annuity options, benefits, and features",Indemnification,0.327,3
-88,"Joint Life Guarantee: Type of optional benefit that is added to the Contract at issue which designates that
-the features and benefits of the Rider(s) will cover two Covered Lives, specified at Contract issue",Warranty,0.496,2
-89,"Lifetime Withdrawal: Withdrawals available under the Lifetime Withdrawal Guarantee of the Accumulation
+Benefit Period"
+85,Indemnification,0.366,3,Initial Purchase Payment: The sum of all deposits made into the Contract on the Contract Date
+86,Warranty,0.524,2,"Investment Options: The Contract’s investment options that consist of the Variable Investment Options and
+the Fixed Account Options"
+87,Indemnification,0.327,3,"Joint Annuitant: The individual other than the Annuitant (as designated in the Contract) whose lifetime is
+also used as a measuring life for all annuity options, benefits, and features"
+88,Warranty,0.496,2,"Joint Life Guarantee: Type of optional benefit that is added to the Contract at issue which designates that
+the features and benefits of the Rider(s) will cover two Covered Lives, specified at Contract issue"
+89,Warranty,0.449,2,"Lifetime Withdrawal: Withdrawals available under the Lifetime Withdrawal Guarantee of the Accumulation
 Income Rider and under the Lifetime Withdrawal Guarantee of the Guaranteed Income Rider that provides
-Guaranteed Annual Withdrawal Amounts for the lifetime(s) of the Covered Life(ves)",Warranty,0.449,2
-90,"Lifetime Withdrawal Guarantee: Provides Guaranteed Annual Withdrawal Amounts for the lifetime(s) of the
+Guaranteed Annual Withdrawal Amounts for the lifetime(s) of the Covered Life(ves)"
+90,Warranty,0.43,2,"Lifetime Withdrawal Guarantee: Provides Guaranteed Annual Withdrawal Amounts for the lifetime(s) of the
 Covered Life(ves) under the Accumulation Income Rider and under the Lifetime Withdrawal Guarantee of
-the Guaranteed Income Rider",Warranty,0.43,2
-91,"Lifetime Withdrawal Rate: The percentage applied to the Guaranteed Income Benefit Base (based on the
+the Guaranteed Income Rider"
+91,Confidentiality,0.231,1,"Lifetime Withdrawal Rate: The percentage applied to the Guaranteed Income Benefit Base (based on the
 age of the younger Covered Life) to determine the Guaranteed Annual Withdrawal Amount under the
-Lifetime Withdrawal Guarantee provided by the Guaranteed Income Rider",Confidentiality,0.231,1
-92,"The percentage applied to the
+Lifetime Withdrawal Guarantee provided by the Guaranteed Income Rider"
+92,Warranty,0.319,2,"The percentage applied to the
 Accumulation Income Benefit Base (equal to the sum of the Age-Based Lifetime Withdrawal Rate and the
 Effective Waiting Bonus) to determine the Guaranteed Annual Withdrawal Amount under the Lifetime
-Withdrawal Guarantee of the Accumulation Income Rider",Warranty,0.319,2
-93,"Living Benefit Guarantee: Provides Guaranteed Annual Withdrawal Amounts under either the Lifetime
-Withdrawal Guarantee or the Standard Withdrawal Guarantee of the Guaranteed Income Rider",Warranty,0.357,2
-94,"5
+Withdrawal Guarantee of the Accumulation Income Rider"
+93,Warranty,0.357,2,"Living Benefit Guarantee: Provides Guaranteed Annual Withdrawal Amounts under either the Lifetime
+Withdrawal Guarantee or the Standard Withdrawal Guarantee of the Guaranteed Income Rider"
+94,Payment Terms,0.263,2,"5
 Maturity Age: The oldest age at which annuity payments may begin as specified in your Contract (generally
-Actual Age 100)",Payment Terms,0.263,2
-95,"Monthly Anniversary: The same day of each month as the Contract Anniversary; if there is no
-corresponding date in the month, the Monthly Anniversary date will be the last date of such month",Termination,0.51,3
-96,"Non-Qualified Contract: A non-qualified annuity is not part of an employer provided retirement program and
+Actual Age 100)"
+95,Termination,0.51,3,"Monthly Anniversary: The same day of each month as the Contract Anniversary; if there is no
+corresponding date in the month, the Monthly Anniversary date will be the last date of such month"
+96,Confidentiality,0.364,1,"Non-Qualified Contract: A non-qualified annuity is not part of an employer provided retirement program and
 may be purchased by any individual or entity; contributions to non-qualified annuities are made with after-tax
-dollars",Confidentiality,0.364,1
-97,"Portfolios: The mutual fund portfolios that are available for investment in the Variable Investment Options of
-the Separate Account",Warranty,0.611,2
-98,The Portfolios are referred to sometimes as Portfolio Companies,Confidentiality,0.294,1
-99,Purchase Payment: Any deposit made into the Contract,Indemnification,0.462,3
-100,"Qualified Contract: A qualified annuity is purchased as part of, or in conjunction with, an employer provided
+dollars"
+97,Warranty,0.611,2,"Portfolios: The mutual fund portfolios that are available for investment in the Variable Investment Options of
+the Separate Account"
+98,Confidentiality,0.294,1,The Portfolios are referred to sometimes as Portfolio Companies
+99,Indemnification,0.462,3,Purchase Payment: Any deposit made into the Contract
+100,Termination,0.237,3,"Qualified Contract: A qualified annuity is purchased as part of, or in conjunction with, an employer provided
 retirement plan, such as a defined benefit pension plan, or an individual retirement arrangement, such as an
-Individual Retirement Annuity (IRA)",Termination,0.237,3
-101,"PIA does not issue contracts through 401(k) or similar defined
-contribution pension plans",Confidentiality,0.517,1
-102,"Required Minimum Distributions (RMD): Required minimum distributions under the Internal Revenue
-Code",Confidentiality,0.232,1
-103,"Reset Benefit: A benefit available under the Guaranteed Minimum Accumulation Rider, which allows a
+Individual Retirement Annuity (IRA)"
+101,Confidentiality,0.517,1,"PIA does not issue contracts through 401(k) or similar defined
+contribution pension plans"
+102,Confidentiality,0.232,1,"Required Minimum Distributions (RMD): Required minimum distributions under the Internal Revenue
+Code"
+103,Warranty,0.464,2,"Reset Benefit: A benefit available under the Guaranteed Minimum Accumulation Rider, which allows a
 Contract Owner to reset the Accumulation Benefit Base as the current Contract Value as of any Contract
-Anniversary and start a new Accumulation Benefit Period",Warranty,0.464,2
-104,"Reset Benefit Date: Any Contract Anniversary on which a Reset Benefit has been elected under an
-effective Guaranteed Minimum Accumulation Rider",Warranty,0.299,2
-105,"Rider: Optional benefit (or combination of benefits) that adds to, alters, or amends the Contract to provide
+Anniversary and start a new Accumulation Benefit Period"
+104,Warranty,0.299,2,"Reset Benefit Date: Any Contract Anniversary on which a Reset Benefit has been elected under an
+effective Guaranteed Minimum Accumulation Rider"
+105,Warranty,0.339,2,"Rider: Optional benefit (or combination of benefits) that adds to, alters, or amends the Contract to provide
 additional features to the Base Contract — including the Enhanced Death Benefit Rider, Guaranteed Income
 Rider, Accumulation Income Rider, and Guaranteed Minimum Accumulation Rider (although rider availability
-may vary by state and may change in the future)",Warranty,0.339,2
-106,"Rider Charge: The applicable charge for an optional benefit Rider that you may purchase with your
-Contract",Warranty,0.388,2
-107,"Separate Account: The PIA Variable Annuity Account I, of The Penn Insurance and Annuity Company, a
-segregated asset account of the Company",Indemnification,0.328,3
-108,"The Separate Account is divided into subaccounts, each of
+may vary by state and may change in the future)"
+106,Warranty,0.388,2,"Rider Charge: The applicable charge for an optional benefit Rider that you may purchase with your
+Contract"
+107,Indemnification,0.328,3,"Separate Account: The PIA Variable Annuity Account I, of The Penn Insurance and Annuity Company, a
+segregated asset account of the Company"
+108,Warranty,0.495,2,"The Separate Account is divided into subaccounts, each of
 which invests exclusively in a specific Portfolio and is referred to sometimes as a Variable Investment
-Option",Warranty,0.495,2
-109,"Short-Term Fixed Account: The Investment Option available under the Fixed Account that earns a rate of
-interest declared by the Company from time to time",Warranty,0.727,2
-110,"Single Life Guarantee: Type of optional benefit that is added to the Contract at issue which designates that
-the features and benefits of the Rider will cover one Covered Life, specified at Contract issue",Warranty,0.572,2
-111,"Spousal Step-In: Under Code Section 72(s), upon Contract Owner’s death, a spouse who is sole primary
-Beneficiary of a Contract may take the Contract as their own",Indemnification,0.708,3
-112,"Standard Death Benefit: The amount of the death benefit under the Contract, calculated as described
-under “What Are the Supplemental Riders and Benefits That Are Available? – Death Benefit",Termination,0.198,3
-113,"”
+Option"
+109,Warranty,0.727,2,"Short-Term Fixed Account: The Investment Option available under the Fixed Account that earns a rate of
+interest declared by the Company from time to time"
+110,Warranty,0.572,2,"Single Life Guarantee: Type of optional benefit that is added to the Contract at issue which designates that
+the features and benefits of the Rider will cover one Covered Life, specified at Contract issue"
+111,Indemnification,0.708,3,"Spousal Step-In: Under Code Section 72(s), upon Contract Owner’s death, a spouse who is sole primary
+Beneficiary of a Contract may take the Contract as their own"
+112,Termination,0.198,3,"Standard Death Benefit: The amount of the death benefit under the Contract, calculated as described
+under “What Are the Supplemental Riders and Benefits That Are Available? – Death Benefit"
+113,Warranty,0.555,2,"”
 Standard Withdrawal Benefit Balance: Used to determine how long the benefit will last under the
-Standard Withdrawal Guarantee of the Guaranteed Income Rider",Warranty,0.555,2
-114,"Standard Withdrawal Guarantee: Provides Guaranteed Annual Withdrawal Amounts for the earlier of the
+Standard Withdrawal Guarantee of the Guaranteed Income Rider"
+114,Warranty,0.559,2,"Standard Withdrawal Guarantee: Provides Guaranteed Annual Withdrawal Amounts for the earlier of the
 Standard Withdrawal Benefit Balance reducing to zero and the lifetime(s) of the Covered Life(ves) under the
-Standard Withdrawal Guarantee of the Guaranteed Income Rider",Warranty,0.559,2
-115,"6
+Standard Withdrawal Guarantee of the Guaranteed Income Rider"
+115,Warranty,0.332,2,"6
 Standard Withdrawal Rate: The percentage applied to the Guaranteed Income Benefit Base to determine
 the Guaranteed Annual Withdrawal Amount under the Standard Withdrawal Guarantee of the Guaranteed
-Income Rider",Warranty,0.332,2
-116,"The available Standard Withdrawal Rates at the time the Standard Withdrawal Guarantee is
+Income Rider"
+116,Warranty,0.687,2,"The available Standard Withdrawal Rates at the time the Standard Withdrawal Guarantee is
 elected will be determined by the then applicable Lifetime Withdrawal Rate and the Standard Withdrawal
-Rate Threshold",Warranty,0.687,2
-117,"Standard Withdrawal Rate Threshold: The amount added to the then applicable Lifetime Withdrawal Rate
+Rate Threshold"
+117,Warranty,0.633,2,"Standard Withdrawal Rate Threshold: The amount added to the then applicable Lifetime Withdrawal Rate
 to determine which Standard Withdrawal Rates are available under the Standard Withdrawal Guarantee of
-the Guaranteed Income Rider",Warranty,0.633,2
-118,"Step-Up: An increase in the Guaranteed Income Benefit Base, the Accumulation Income Benefit Base, the
+the Guaranteed Income Rider"
+118,Termination,0.293,3,"Step-Up: An increase in the Guaranteed Income Benefit Base, the Accumulation Income Benefit Base, the
 Enhanced Death Benefit Base, or the Standard Withdrawal Benefit Balance to an amount equal to 100% of
-the Contract Value, determined on the applicable Contract Anniversary",Termination,0.293,3
-119,Subsequent Purchase Payment: Any deposit made into the Contract after the Contract Date,Indemnification,0.382,3
-120,"Surrender Charge: A fee imposed as a percentage of the amount of the Purchase Payments withdrawn in
-excess of the Free Withdrawal Amount for the Contract Year during the Surrender Charge Period",Warranty,0.477,2
-121,Surrender Charge Basis: The sum of all Purchase Payments not yet withdrawn,Indemnification,0.391,3
-122,"Surrender Charge Period: The number of Contract Years during which a Purchase Payment is subject to a
-Surrender Charge",Warranty,0.536,2
-123,Surrender Value: Contract Value less any charges and fees imposed upon surrender,Indemnification,0.343,3
-124,Valuation Period: The period from one valuation of Separate Account assets to the next,Warranty,0.339,2
-125,"Valuation is
-performed on each day the NYSE is open for trading",Warranty,0.329,2
-126,"Variable Account: The account under which amounts are held for the Contract Owner under all Variable
-Investment Options prior to the Annuity Date",Warranty,0.401,2
-127,"Variable Account Value: The sum of the values of the Accumulation Units held in the Variable Investment
-Options for this Contract",Warranty,0.631,2
-128,"Variable Investment Options: The subaccounts of the Separate Account, each of which invests exclusively
-in a specified Portfolio",Warranty,0.609,2
-129,"Withdrawal Phase: The period during which withdrawals are taken under the Lifetime Withdrawal
+the Contract Value, determined on the applicable Contract Anniversary"
+119,Indemnification,0.382,3,Subsequent Purchase Payment: Any deposit made into the Contract after the Contract Date
+120,Warranty,0.477,2,"Surrender Charge: A fee imposed as a percentage of the amount of the Purchase Payments withdrawn in
+excess of the Free Withdrawal Amount for the Contract Year during the Surrender Charge Period"
+121,Indemnification,0.391,3,Surrender Charge Basis: The sum of all Purchase Payments not yet withdrawn
+122,Warranty,0.536,2,"Surrender Charge Period: The number of Contract Years during which a Purchase Payment is subject to a
+Surrender Charge"
+123,Indemnification,0.343,3,Surrender Value: Contract Value less any charges and fees imposed upon surrender
+124,Warranty,0.339,2,Valuation Period: The period from one valuation of Separate Account assets to the next
+125,Warranty,0.329,2,"Valuation is
+performed on each day the NYSE is open for trading"
+126,Warranty,0.401,2,"Variable Account: The account under which amounts are held for the Contract Owner under all Variable
+Investment Options prior to the Annuity Date"
+127,Warranty,0.631,2,"Variable Account Value: The sum of the values of the Accumulation Units held in the Variable Investment
+Options for this Contract"
+128,Warranty,0.609,2,"Variable Investment Options: The subaccounts of the Separate Account, each of which invests exclusively
+in a specified Portfolio"
+129,Warranty,0.33,2,"Withdrawal Phase: The period during which withdrawals are taken under the Lifetime Withdrawal
 Guarantee of the Accumulation Income Rider or under the Living Benefit Guarantee of the Guaranteed
-Income Rider",Warranty,0.33,2
-130,"You, Your: The Contract Owner, who can make decisions regarding allocation of Purchase Payments,
+Income Rider"
+130,Indemnification,0.557,3,"You, Your: The Contract Owner, who can make decisions regarding allocation of Purchase Payments,
 transfers, withdrawals, surrender, naming Beneficiary(ies), electing Riders, and other matters (all within the
-Contract limits)",Indemnification,0.557,3
-131,"7
+Contract limits)"
+131,Warranty,0.366,2,"7
  
 IMPORTANT INFORMATION YOU SHOULD CONSIDER ABOUT THE DEFERRED VARIABLE ANNUITY
 CONTRACT
@@ -379,30 +379,30 @@ Withdrawals
  
  
 If you surrender your Contract or withdraw money from the Contract within seven years following
-your last Purchase Payment, you will be assessed a Surrender Charge of up to 8",Warranty,0.366,2
-132,"For example, if you make a withdrawal in the first year, you could pay a Surrender Charge of up to
-$8,000 on a $100,000 investment",Warranty,0.307,2
-133,"For more detailed information, see “Surrender Charge” under “What Are the Fees and Charges
-Under the Contract?” in the Prospectus",Governing Law,0.307,1
-134,"Transaction
+your last Purchase Payment, you will be assessed a Surrender Charge of up to 8"
+132,Warranty,0.307,2,"For example, if you make a withdrawal in the first year, you could pay a Surrender Charge of up to
+$8,000 on a $100,000 investment"
+133,Governing Law,0.307,1,"For more detailed information, see “Surrender Charge” under “What Are the Fees and Charges
+Under the Contract?” in the Prospectus"
+134,Warranty,0.628,2,"Transaction
 Charges
  
  
  
 In addition to Surrender Charges, you may also be charged for other transactions, such as
-transfers between Investment Options",Warranty,0.628,2
-135,"For more detailed information, see “Table of Fees and Expenses;” “What Are the Fees and
-Charges Under the Contract?” in the Prospectus",Governing Law,0.271,1
-136,"Ongoing Fees
+transfers between Investment Options"
+135,Governing Law,0.271,1,"For more detailed information, see “Table of Fees and Expenses;” “What Are the Fees and
+Charges Under the Contract?” in the Prospectus"
+136,Warranty,0.465,2,"Ongoing Fees
 and Expenses
  
   
  
 The table below describes the fees and expenses that you may pay each year, depending on
-the options you choose",Warranty,0.465,2
-137,"Please refer to your Contract Specifications Page for information about
-the specific fees you will pay each year based on the options you have elected",Warranty,0.467,2
-138,"Annual Fee
+the options you choose"
+137,Warranty,0.467,2,"Please refer to your Contract Specifications Page for information about
+the specific fees you will pay each year based on the options you have elected"
+138,Termination,0.387,3,"Annual Fee
   Minimum    Maximum      
  
  
@@ -412,8 +412,8 @@ the specific fees you will pay each year based on the options you have elected",
  
     Base Contract1
   
-1",Termination,0.387,3
-139,"40%
+1"
+139,Intellectual Property,0.497,2,"40%
    
  
  
@@ -423,8 +423,8 @@ the specific fees you will pay each year based on the options you have elected",
  
     Investment Options (Portfolio fees and expenses)2
   
-0",Intellectual Property,0.497,2
-140,"41%
+0"
+140,Termination,0.38,3,"41%
    
  
  
@@ -436,27 +436,27 @@ the specific fees you will pay each year based on the options you have elected",
 Optional benefits available for an additional charge (for a single
 optional benefit, if elected)3
   
-0",Termination,0.38,3
-141,"50%
+0"
+141,Intellectual Property,0.355,2,"50%
   
  
  
  
  
-1  Expressed as an annual percent of Contract Value in the Variable Investment Options",Intellectual Property,0.355,2
-142,2  Expressed as an annual percentage of daily net assets in the Portfolio,Intellectual Property,0.57,2
-143,"This range is for the year ended
-December 31, 2022, and could change from year to year",Intellectual Property,0.243,2
-144,"3  Expressed as an annual percentage of the applicable benefit base or Variable Account Value, depending on the
-optional benefit",Warranty,0.478,2
-145,"Because your Contract is customizable, the choices you make affect how much you will pay",Warranty,0.439,2
-146,"To
+1  Expressed as an annual percent of Contract Value in the Variable Investment Options"
+142,Intellectual Property,0.57,2,2  Expressed as an annual percentage of daily net assets in the Portfolio
+143,Intellectual Property,0.243,2,"This range is for the year ended
+December 31, 2022, and could change from year to year"
+144,Warranty,0.478,2,"3  Expressed as an annual percentage of the applicable benefit base or Variable Account Value, depending on the
+optional benefit"
+145,Warranty,0.439,2,"Because your Contract is customizable, the choices you make affect how much you will pay"
+146,Termination,0.231,3,"To
 help you understand the cost of owning your Contract, the following table shows the lowest and
-highest cost you could pay each year, based on current charges",Termination,0.231,3
-147,"The estimate assumes that you
+highest cost you could pay each year, based on current charges"
+147,Warranty,0.603,2,"The estimate assumes that you
 do not take withdrawals from the Contract, which could add Surrender Charges that substantially
-increase costs",Warranty,0.603,2
-148,"Lowest Annual Cost:
+increase costs"
+148,Intellectual Property,0.577,2,"Lowest Annual Cost:
 $1,536
  
       
@@ -471,8 +471,8 @@ $5,059
 Assumes:
  
 •  Investment of $100,000
-•  5",Intellectual Property,0.577,2
-149,"00% annual appreciation
+•  5"
+149,Intellectual Property,0.353,2,"00% annual appreciation
 •  Least expensive combination
 of the Contract and Portfolio
 fees and expenses
@@ -488,8 +488,8 @@ withdrawals
 Assumes:
  
 •  Investment of $100,000
-•  5",Intellectual Property,0.353,2
-150,"00% annual appreciation
+•  5"
+150,Termination,0.271,3,"00% annual appreciation
 •  Most expensive combination of Contract, optional
 benefits and Portfolio fees and expenses
 •  No sales charges
@@ -507,9 +507,9 @@ RISKS
 Risk of Loss
   
 You can lose money by investing in this Contract, including loss of your Purchase Payments
-(principal)",Termination,0.271,3
-151,"For more detailed information, see “Summary of Principal Risks of Investing in the Contract",Warranty,0.243,2
-152,"”
+(principal)"
+151,Warranty,0.243,2,"For more detailed information, see “Summary of Principal Risks of Investing in the Contract"
+152,Warranty,0.312,2,"”
  
  
  
@@ -518,16 +518,16 @@ Term
 Investment
   
 The Contract is not designed for short-term investing and is not appropriate for an investor who
-needs ready access to cash",Warranty,0.312,2
-153,"The Contract is designed to provide for the accumulation of retirement savings and income on a
-long-term basis",Payment Terms,0.215,2
-154,"As such, you should not use the Contract as a short-term investment or savings
-vehicle",Warranty,0.32,2
-155,"A Surrender Charge may apply in certain circumstances, and potentially result in a
+needs ready access to cash"
+153,Payment Terms,0.215,2,"The Contract is designed to provide for the accumulation of retirement savings and income on a
+long-term basis"
+154,Warranty,0.32,2,"As such, you should not use the Contract as a short-term investment or savings
+vehicle"
+155,Confidentiality,0.19,1,"A Surrender Charge may apply in certain circumstances, and potentially result in a
 significant reduction in the Standard Death Benefit, potentially significant reduction in or loss of
-optional benefits, and/or federal and state income taxes and tax penalties",Confidentiality,0.19,1
-156,"For more detailed information, see “Summary of Principal Risks of Investing in the Contract",Warranty,0.243,2
-157,"”
+optional benefits, and/or federal and state income taxes and tax penalties"
+156,Warranty,0.243,2,"For more detailed information, see “Summary of Principal Risks of Investing in the Contract"
+157,Warranty,0.671,2,"”
  
  
  
@@ -538,22 +538,22 @@ Options
   
 •   An investment in the Contract is subject to the risk of loss/poor investment performance of
 the Portfolios you choose, and the value of an investment can vary depending on the
-performance of the Portfolios",Warranty,0.671,2
-158,"•   Each Investment Option (the Variable Investment Options and the Fixed Account Options)
-has its own unique risks",Warranty,0.745,2
-159,"You should review these Investment Options before making an
-investment decision",Warranty,0.363,2
-160,"The performance of the Portfolios will vary among each other, may
+performance of the Portfolios"
+158,Warranty,0.745,2,"•   Each Investment Option (the Variable Investment Options and the Fixed Account Options)
+has its own unique risks"
+159,Warranty,0.363,2,"You should review these Investment Options before making an
+investment decision"
+160,Warranty,0.59,2,"The performance of the Portfolios will vary among each other, may
 underperform similar mutual funds not available through the Variable Investment Options,
-and some are riskier than others",Warranty,0.59,2
-161,"•   A discussion of the risk of allocating your Purchase Payments to one or more Portfolios can
-be found in the prospectuses for the Portfolios",Warranty,0.716,2
-162,"You should review the prospectuses for the
-Portfolios before making an investment decision",Warranty,0.473,2
-163,"For more detailed information, see “Summary of Principal Risks of Investing in the Contract;”
+and some are riskier than others"
+161,Warranty,0.716,2,"•   A discussion of the risk of allocating your Purchase Payments to one or more Portfolios can
+be found in the prospectuses for the Portfolios"
+162,Warranty,0.473,2,"You should review the prospectuses for the
+Portfolios before making an investment decision"
+163,Warranty,0.263,2,"For more detailed information, see “Summary of Principal Risks of Investing in the Contract;”
 “Appendix A – Portfolio Companies Available Under the Contract;” “Appendix B – Fixed Account
-Options",Warranty,0.263,2
-164,"”
+Options"
+164,Indemnification,0.575,3,"”
  
  
  
@@ -564,17 +564,17 @@ An investment in the Contract is subject to the risks related to the Company, in
  
 •   Any obligations, guarantees, and benefits of the Contract (including the Fixed Account
 Options, the Standard Death Benefit, and the optional Rider benefits) are subject to the
-claims-paying ability and financial strength of the Company",Indemnification,0.575,3
-165,"•   There are risks relating to the Company’s administration of the Contract, including, among
-others, cybersecurity and infectious disease outbreak risks",Warranty,0.291,2
-166,"•   If the Company experiences financial distress, it may not be able to meet its obligations to
-you",Confidentiality,0.324,1
-167,"•   More information about the Company, including its financial strength ratings, is available
-upon request from the Company at 1-800-523-0650",Warranty,0.257,2
-168,"For more detailed information, see “The Penn Insurance and Annuity Company;” “Financial
+claims-paying ability and financial strength of the Company"
+165,Warranty,0.291,2,"•   There are risks relating to the Company’s administration of the Contract, including, among
+others, cybersecurity and infectious disease outbreak risks"
+166,Confidentiality,0.324,1,"•   If the Company experiences financial distress, it may not be able to meet its obligations to
+you"
+167,Warranty,0.257,2,"•   More information about the Company, including its financial strength ratings, is available
+upon request from the Company at 1-800-523-0650"
+168,Confidentiality,0.217,1,"For more detailed information, see “The Penn Insurance and Annuity Company;” “Financial
 Statements;” “Insurance Company Risks” under “Summary of Principal Risks of Investing in the
-Contract;” “Other Information",Confidentiality,0.217,1
-169,"”
+Contract;” “Other Information"
+169,Warranty,0.565,2,"”
  
  
 9
@@ -586,18 +586,18 @@ RESTRICTIONS
 Investments
   
 •   You can allocate your Purchase Payments to the Variable Investment Options (that invest in
-the Portfolios) or the Fixed Account Options",Warranty,0.565,2
-170,"•   The minimum amount that may be transferred is $250 or, if less, the total amount held in the
-Investment Option",Warranty,0.501,2
-171,"•   The Company reserves the right to remove or substitute any of the Portfolios as Investment
-Options that are available under the Contract",Indemnification,0.436,3
-172,"•   In addition, we may limit your ability to make transfers involving the Variable Investment
+the Portfolios) or the Fixed Account Options"
+170,Warranty,0.501,2,"•   The minimum amount that may be transferred is $250 or, if less, the total amount held in the
+Investment Option"
+171,Indemnification,0.436,3,"•   The Company reserves the right to remove or substitute any of the Portfolios as Investment
+Options that are available under the Contract"
+172,Warranty,0.442,2,"•   In addition, we may limit your ability to make transfers involving the Variable Investment
 Options if it is believed that a transfer may disadvantage or potentially harm or hurt the rights
-or interests of other Contract Owners",Warranty,0.442,2
-173,"•   We will also reject or reverse a transfer request if for any reason any of the Portfolios do not
-accept the purchase of its shares",Warranty,0.369,2
-174,"•   In addition, we reserve the right to reject any Purchase Payment at any time for any reason",Indemnification,0.321,3
-175,"For more detailed information, see “How Do I Change the Contract’s Investment Allocations?;”
+or interests of other Contract Owners"
+173,Warranty,0.369,2,"•   We will also reject or reverse a transfer request if for any reason any of the Portfolios do not
+accept the purchase of its shares"
+174,Indemnification,0.321,3,"•   In addition, we reserve the right to reject any Purchase Payment at any time for any reason"
+175,Warranty,0.46,2,"For more detailed information, see “How Do I Change the Contract’s Investment Allocations?;”
 “Appendix B – Fixed Account Options;”
  
  
@@ -605,32 +605,32 @@ accept the purchase of its shares",Warranty,0.369,2
 Optional
 Benefits
   
-The Contract offers a selection of optional benefits",Warranty,0.46,2
-176,"•   If you select an optional benefit, you are not permitted to invest in the Short-Term Fixed
-Account",Warranty,0.388,2
-177,"In the future, we may change this restriction or add new ones relating to other
-Investment Options",Warranty,0.335,2
-178,"•   Withdrawals, including Required Minimum Distributions (“RMDs”), may reduce the value of an
+The Contract offers a selection of optional benefits"
+176,Warranty,0.388,2,"•   If you select an optional benefit, you are not permitted to invest in the Short-Term Fixed
+Account"
+177,Warranty,0.335,2,"In the future, we may change this restriction or add new ones relating to other
+Investment Options"
+178,Warranty,0.468,2,"•   Withdrawals, including Required Minimum Distributions (“RMDs”), may reduce the value of an
 optional benefit by an amount greater than the value withdrawn or result in termination of the
-benefit and the Contract",Warranty,0.468,2
-179,"•   Withdrawals under the optional benefits, including Guaranteed Annual Withdrawal Amounts,
-are subject to the surrender charge rules",Warranty,0.428,2
-180,"Therefore, a surrender charge may apply to such
-withdrawals",Indemnification,0.474,3
-181,"•   Subsequent Purchase Payments are not permitted during the Withdrawal Phase of the
+benefit and the Contract"
+179,Warranty,0.428,2,"•   Withdrawals under the optional benefits, including Guaranteed Annual Withdrawal Amounts,
+are subject to the surrender charge rules"
+180,Indemnification,0.474,3,"Therefore, a surrender charge may apply to such
+withdrawals"
+181,Termination,0.332,3,"•   Subsequent Purchase Payments are not permitted during the Withdrawal Phase of the
 Accumulation Income Rider, which means that the Purchase Payments cannot be used at
 that time to increase Contract Value, the death benefit or the Accumulation Income Benefit
-Base",Termination,0.332,3
-182,"•   While the Guaranteed Minimum Accumulation Rider provides a guarantee that is designed to
+Base"
+182,Warranty,0.575,2,"•   While the Guaranteed Minimum Accumulation Rider provides a guarantee that is designed to
 provide a minimum Contract Value, additional Purchase Payments made after the first 12
 months of the Accumulation Benefit Period will not be included in the Accumulation Benefit
-Base",Warranty,0.575,2
-183,"Any additional Purchase Payments made after the first 12 months will increase the
+Base"
+183,Warranty,0.395,2,"Any additional Purchase Payments made after the first 12 months will increase the
 Contract Value but not the Accumulation Benefit Base and may reduce the likelihood of
-receiving the benefit provided by the Guaranteed Minimum Accumulation Rider",Warranty,0.395,2
-184,"•   We may modify or stop offering an optional benefit at any time, and the availability of such
-benefits may vary by state",Warranty,0.316,2
-185,"For more detailed information, see “What Are the Supplemental Riders and Benefits That Are
+receiving the benefit provided by the Guaranteed Minimum Accumulation Rider"
+184,Warranty,0.316,2,"•   We may modify or stop offering an optional benefit at any time, and the availability of such
+benefits may vary by state"
+185,Confidentiality,0.292,1,"For more detailed information, see “What Are the Supplemental Riders and Benefits That Are
 Available?”
  
  
@@ -642,12 +642,12 @@ Tax
 Implications
   
 •   Consult with a tax professional to determine the tax implications of an investment in and
-payments received under this Contract",Confidentiality,0.292,1
-186,"•   If you purchase the Contract through a tax-qualified plan or individual retirement account
-(“IRA”), you do not get any additional tax benefit",Confidentiality,0.353,1
-187,"•   Withdrawals from your Contract are taxed at ordinary income tax rates, and may be subject to
-a tax penalty before age 59 1⁄2",Termination,0.429,3
-188,"For more detailed information, see “Summary of Principal Risks of Investing in the Contract –
+payments received under this Contract"
+186,Confidentiality,0.353,1,"•   If you purchase the Contract through a tax-qualified plan or individual retirement account
+(“IRA”), you do not get any additional tax benefit"
+187,Termination,0.429,3,"•   Withdrawals from your Contract are taxed at ordinary income tax rates, and may be subject to
+a tax penalty before age 59 1⁄2"
+188,Indemnification,0.407,3,"For more detailed information, see “Summary of Principal Risks of Investing in the Contract –
 Taxes and Tax Risks;” “How Is the Contract Treated Under Federal Income Tax Law?”
  
  
@@ -664,146 +664,146 @@ Compensation
 Your financial professional may receive compensation for selling this Contract to you, in the form
 of commissions, asset-based compensation, allowances for expenses, and other compensation
 programs, and the Company may share the revenue it earns on this Contract with the
-professional’s firm",Indemnification,0.407,3
-189,"(Your financial professional may be your broker, investment adviser, insurance
-agent, or someone else",Indemnification,0.392,3
-190,")
+professional’s firm"
+189,Indemnification,0.392,3,"(Your financial professional may be your broker, investment adviser, insurance
+agent, or someone else"
+190,Indemnification,0.316,3,")
  
 For these reasons, these financial professionals may have a financial incentive to recommend this
-Contract over another annuity contract or investment",Indemnification,0.316,3
-191,"For more detailed information, see “Distribution Arrangements",Payment Terms,0.181,2
-192,"”
+Contract over another annuity contract or investment"
+191,Payment Terms,0.181,2,"For more detailed information, see “Distribution Arrangements"
+192,Warranty,0.294,2,"”
  
  
  
 Exchanges
   
 Some financial professionals may have a financial incentive to offer you a new contract in place of
-the one you own",Warranty,0.294,2
-193,"You should only exchange your contract if you determine, after comparing the
+the one you own"
+193,Warranty,0.289,2,"You should only exchange your contract if you determine, after comparing the
 features, fees, and risks of both contracts, that it is preferable for you to purchase the new
-contract rather than continue to own your existing contract",Warranty,0.289,2
-194,"For more detailed information, see “How Do I Purchase the Contract? – Tax Free ‘Section  1035’
-Insurance Contract Exchanges",Termination,0.206,3
-195,"”
+contract rather than continue to own your existing contract"
+194,Termination,0.206,3,"For more detailed information, see “How Do I Purchase the Contract? – Tax Free ‘Section  1035’
+Insurance Contract Exchanges"
+195,Warranty,0.429,2,"”
  
  
 11
  
 OVERVIEW OF THE DEFERRED VARIABLE ANNUITY CONTRACT
-The following provides an overview of the Deferred Variable Annuity Contract’s primary features",Warranty,0.429,2
-196,"Please
+The following provides an overview of the Deferred Variable Annuity Contract’s primary features"
+196,Governing Law,0.457,1,"Please
 read the full descriptions in the rest of this Summary Prospectus, the Prospectus, and your Contract, for more
-information regarding these features and other provisions of the Contract",Governing Law,0.457,1
-197,"Purpose of the Contract
+information regarding these features and other provisions of the Contract"
+197,Indemnification,0.491,3,"Purpose of the Contract
 The Contract is designed to accumulate Contract Value and to provide income over a certain period of time
-or for life subject to certain conditions",Indemnification,0.491,3
-198,"The Contract can supplement your retirement income by providing a stream of
-income payments during the Annuity Payout Period",Termination,0.279,3
-199,"The benefits offered under the Contract may be a variable or fixed
-amount, if available, or a combination of both",Termination,0.389,3
-200,"The Contract also offers a death benefit payable to your designated
-Beneficiaries upon the death of the Contract Owner or Annuitant",Indemnification,0.729,3
-201,This Contract may be appropriate if you have a long investment time horizon,Warranty,0.484,2
-202,"It is not intended for people
+or for life subject to certain conditions"
+198,Termination,0.279,3,"The Contract can supplement your retirement income by providing a stream of
+income payments during the Annuity Payout Period"
+199,Termination,0.389,3,"The benefits offered under the Contract may be a variable or fixed
+amount, if available, or a combination of both"
+200,Indemnification,0.729,3,"The Contract also offers a death benefit payable to your designated
+Beneficiaries upon the death of the Contract Owner or Annuitant"
+201,Warranty,0.484,2,This Contract may be appropriate if you have a long investment time horizon
+202,Warranty,0.355,2,"It is not intended for people
 who may need to make early or frequent withdrawals or intend to engage in frequent trading in the Variable Investment
-Options",Warranty,0.355,2
-203,"Phases of the Contract
+Options"
+203,Termination,0.278,3,"Phases of the Contract
 Your Contract has two phases: (1) an accumulation (savings) phase called the Accumulation Period, prior to
-the Annuity Date; and (2) a payout (income) phase called the Annuity Payout Period, after the Annuity Date",Termination,0.278,3
-204,"Accumulation (Savings) Period
+the Annuity Date; and (2) a payout (income) phase called the Annuity Payout Period, after the Annuity Date"
+204,Warranty,0.654,2,"Accumulation (Savings) Period
 To help you accumulate assets during the Accumulation Period, you can invest your payments and earnings
 in different Investment Options as follows:
  
  
 •
   The Contract allows you to allocate your Contract Value among the different Variable Investment
-Options which each invest in a specified mutual fund portfolio (each, a “Portfolio”)",Warranty,0.654,2
-205,"Your Contract
+Options which each invest in a specified mutual fund portfolio (each, a “Portfolio”)"
+205,Warranty,0.552,2,"Your Contract
 Value will increase or decrease to reflect the investment performance of the Portfolios you select;
-you bear the investment risk and you can lose money invested in the Portfolios",Warranty,0.552,2
-206,"Appendix A to this
+you bear the investment risk and you can lose money invested in the Portfolios"
+206,Warranty,0.37,2,"Appendix A to this
 Summary Prospectus lists the Portfolios currently available in the Contract and includes
-additional information about the Portfolios",Warranty,0.37,2
-207,"•
+additional information about the Portfolios"
+207,Warranty,0.863,2,"•
   In addition to the Variable Investment Options, the Contract allows you to allocate your Contract
-Value to the Fixed Account Options",Warranty,0.863,2
-208,"The Fixed Account Options are the Short-Term Fixed Account
-and the Fixed Dollar Cost Averaging Options",Warranty,0.681,2
-209,"The optional benefits do not permit you to invest in the
-Short-Term Fixed Account",Warranty,0.467,2
-210,"The Fixed Account Options are designed to be safe investments that
+Value to the Fixed Account Options"
+208,Warranty,0.681,2,"The Fixed Account Options are the Short-Term Fixed Account
+and the Fixed Dollar Cost Averaging Options"
+209,Warranty,0.467,2,"The optional benefits do not permit you to invest in the
+Short-Term Fixed Account"
+210,Warranty,0.706,2,"The Fixed Account Options are designed to be safe investments that
 provide fixed returns, where the Company pays a fixed rate of interest (that it declares periodically,
-subject to a minimum) and where the Company bears the investment risk",Warranty,0.706,2
-211,"The Fixed Account
-Options are described in Appendix B to the Prospectus",Warranty,0.538,2
-212,"•
-  You can change the Investment Options in which you invest throughout the Accumulation Period",Warranty,0.51,2
-213,"Annuity (Income) Payout Period
+subject to a minimum) and where the Company bears the investment risk"
+211,Warranty,0.538,2,"The Fixed Account
+Options are described in Appendix B to the Prospectus"
+212,Warranty,0.51,2,"•
+  You can change the Investment Options in which you invest throughout the Accumulation Period"
+213,Warranty,0.4,2,"Annuity (Income) Payout Period
 You can elect to annuitize your Contract and turn your Contract Value into a stream of income payments
-(called annuity payments), at which time the Accumulation Period of the Contract ends",Warranty,0.4,2
-214,"These payments may continue
-for a fixed period of years, for your entire life, or for the longer of a fixed period or your life",Termination,0.299,3
-215,"If you annuitize, your
+(called annuity payments), at which time the Accumulation Period of the Contract ends"
+214,Termination,0.299,3,"These payments may continue
+for a fixed period of years, for your entire life, or for the longer of a fixed period or your life"
+215,Warranty,0.536,2,"If you annuitize, your
 investments will be converted to income payments and you may no longer be able to choose to make withdrawals from
-your Contract (depending on which Annuity option you select)",Warranty,0.536,2
-216,"All benefits (including death benefits and optional
-benefits) terminate upon Annuitization",Intellectual Property,0.263,2
-217,"However, several optional benefit Riders offered under the Contract provide guaranteed payments during
-the accumulation phase that may last for life, and still allow you to make withdrawals and be eligible for a death benefit",Warranty,0.371,2
-218,"Withdrawals that exceed specified limits under an optional benefit will reduce and could eliminate the income payments
-and other benefits of the optional benefit, including access to a death benefit",Warranty,0.267,2
-219,"Contract Features
+your Contract (depending on which Annuity option you select)"
+216,Intellectual Property,0.263,2,"All benefits (including death benefits and optional
+benefits) terminate upon Annuitization"
+217,Warranty,0.371,2,"However, several optional benefit Riders offered under the Contract provide guaranteed payments during
+the accumulation phase that may last for life, and still allow you to make withdrawals and be eligible for a death benefit"
+218,Warranty,0.267,2,"Withdrawals that exceed specified limits under an optional benefit will reduce and could eliminate the income payments
+and other benefits of the optional benefit, including access to a death benefit"
+219,Termination,0.403,3,"Contract Features
 Base Contract
 The Contract has a seven year Surrender Charge Period (based on each Purchase Payment) and a
-Contract expense charge of 1",Termination,0.403,3
-220,40 of the Variable Investment Options on an annual basis,Intellectual Property,0.463,2
-221,"Transfers
+Contract expense charge of 1"
+220,Intellectual Property,0.463,2,40 of the Variable Investment Options on an annual basis
+221,Warranty,0.82,2,"Transfers
 Within limitations, you may transfer Contract Value from one Variable Investment Option to another and
-between the Short-Term Fixed Account and the Variable Investment Options",Warranty,0.82,2
-222,"In addition, the Contract offers two
-automated transfer programs — a dollar cost averaging program and an asset rebalancing program",Warranty,0.681,2
-223,"You can elect to
-have your account value automatically rebalanced at no additional charge",Warranty,0.881,2
-224,"We offer rebalancing programs that you can
-use to automatically reallocate your account value among your Variable Investment Options",Warranty,0.951,2
-225,"You can also elect to
-allocate your investments using a dollar cost averaging program at no additional charge",Warranty,0.542,2
-226,"You may not elect both a
-dollar cost averaging program and a rebalancing program",Confidentiality,0.323,1
-227,"Contract Value
-The Contract Value includes the amount in the Variable Investment Options and the Fixed Account Options",Warranty,0.619,2
-228,"The value of your Contract will increase or decrease based upon the investment performance of the Variable
+between the Short-Term Fixed Account and the Variable Investment Options"
+222,Warranty,0.681,2,"In addition, the Contract offers two
+automated transfer programs — a dollar cost averaging program and an asset rebalancing program"
+223,Warranty,0.881,2,"You can elect to
+have your account value automatically rebalanced at no additional charge"
+224,Warranty,0.951,2,"We offer rebalancing programs that you can
+use to automatically reallocate your account value among your Variable Investment Options"
+225,Warranty,0.542,2,"You can also elect to
+allocate your investments using a dollar cost averaging program at no additional charge"
+226,Confidentiality,0.323,1,"You may not elect both a
+dollar cost averaging program and a rebalancing program"
+227,Warranty,0.619,2,"Contract Value
+The Contract Value includes the amount in the Variable Investment Options and the Fixed Account Options"
+228,Warranty,0.724,2,"The value of your Contract will increase or decrease based upon the investment performance of the Variable
 Investment Options you choose, your Purchase Payments, interest credited to the Fixed Account Options, any partial
-withdrawals, and the charges we deduct",Warranty,0.724,2
-229,"Surrenders and Withdrawals
-During the Accumulation Period you can surrender the Contract or withdraw part of the Contract Value",Warranty,0.478,2
-230,"However, the Contract is generally not a liquid investment",Warranty,0.249,2
-231,"If you withdraw early, a Surrender Charge and federal and
-state taxes may apply and/or you may incur a tax penalty if you are younger than 59 1⁄2",Termination,0.288,3
-232,"Withdrawals, including
+withdrawals, and the charges we deduct"
+229,Warranty,0.478,2,"Surrenders and Withdrawals
+During the Accumulation Period you can surrender the Contract or withdraw part of the Contract Value"
+230,Warranty,0.249,2,"However, the Contract is generally not a liquid investment"
+231,Termination,0.288,3,"If you withdraw early, a Surrender Charge and federal and
+state taxes may apply and/or you may incur a tax penalty if you are younger than 59 1⁄2"
+232,Warranty,0.285,2,"Withdrawals, including
 Required Minimum Distributions (“RMDs”), could significantly reduce the standard death benefit in addition to the
 guaranteed benefits, and the amount of the reduction may be greater than the dollar amount of the withdrawal and
-could terminate the guaranteed benefits",Warranty,0.285,2
-233,"Free Look Period: “Right to Cancel”
+could terminate the guaranteed benefits"
+233,Termination,0.42,3,"Free Look Period: “Right to Cancel”
 If you are a new purchaser of a Contract, you may cancel your Contract within 10 days of receiving it without
-paying fees or penalties",Termination,0.42,3
-234,"In some states, this “Free Look” or cancellation period may be longer",Termination,0.411,3
-235,"If you cancel your
-Contract, in most states you will receive your Contract value and any fees or charges deducted",Termination,0.344,3
-236,"In some states, you
-will receive a full refund of the amount of any Purchase Payments you have paid, if greater than Contract value",Warranty,0.389,2
-237,"To
+paying fees or penalties"
+234,Termination,0.411,3,"In some states, this “Free Look” or cancellation period may be longer"
+235,Termination,0.344,3,"If you cancel your
+Contract, in most states you will receive your Contract value and any fees or charges deducted"
+236,Warranty,0.389,2,"In some states, you
+will receive a full refund of the amount of any Purchase Payments you have paid, if greater than Contract value"
+237,Indemnification,0.561,3,"To
 cancel your Contract, simply deliver or mail the Contract to our office or to the financial professional who delivered the
-Contract to you",Indemnification,0.561,3
-238,"Death Benefit
+Contract to you"
+238,Indemnification,0.56,3,"Death Benefit
 Your Contract includes a death benefit that will be paid upon the death of either the Contract Owner or the
-Annuitant",Indemnification,0.56,3
-239,"On the death of the Annuitant, the death benefit will be equal to the greater of Contract Value or Purchase
-Payments less adjusted withdrawals",Indemnification,0.478,3
-240,"On the death of the Contract Owner who is not the Annuitant, the death benefit
-will be equal to the Contract Value",Indemnification,0.597,3
-241,"Optional Benefit Riders
+Annuitant"
+239,Indemnification,0.478,3,"On the death of the Annuitant, the death benefit will be equal to the greater of Contract Value or Purchase
+Payments less adjusted withdrawals"
+240,Indemnification,0.597,3,"On the death of the Contract Owner who is not the Annuitant, the death benefit
+will be equal to the Contract Value"
+241,Warranty,0.38,2,"Optional Benefit Riders
 You may purchase certain available optional benefits for an additional fee:
  
  
@@ -823,48 +823,48 @@ and
  
 •
   Guaranteed Minimum Accumulation Rider — provides for a return of a minimum value at the end of
-the Accumulation Benefit Period",Warranty,0.38,2
-242,"13
+the Accumulation Benefit Period"
+242,Warranty,0.397,2,"13
 These optional benefit Riders provide different methods to take income from your Contract Value or receive
-lifetime payments and provide certain guarantees, regardless of the investment performance of the Contract",Warranty,0.397,2
-243,"These
-guarantees are subject to certain conditions, as set forth elsewhere in this Summary Prospectus and the Prospectus",Governing Law,0.447,1
-244,"Withdrawals that exceed specified limitations under certain Riders may result in a reduction or premature
-termination of those benefits or of those Riders",Confidentiality,0.289,1
-245,"Withdrawals under the Riders, including Guaranteed Annual
-Withdrawal Amounts, are subject to the surrender charge rules",Warranty,0.429,2
-246,"Therefore, a surrender charge may apply to such
-withdrawals",Indemnification,0.474,3
-247,"Withdrawals, including RMDs, could significantly reduce the values under the Riders, perhaps by more than
-the amount of the withdrawal, and could terminate the Riders and the Contract",Termination,0.446,3
-248,"The Guaranteed Income Rider and Accumulation Income Rider provide a contingent guarantee that may never
+lifetime payments and provide certain guarantees, regardless of the investment performance of the Contract"
+243,Governing Law,0.447,1,"These
+guarantees are subject to certain conditions, as set forth elsewhere in this Summary Prospectus and the Prospectus"
+244,Confidentiality,0.289,1,"Withdrawals that exceed specified limitations under certain Riders may result in a reduction or premature
+termination of those benefits or of those Riders"
+245,Warranty,0.429,2,"Withdrawals under the Riders, including Guaranteed Annual
+Withdrawal Amounts, are subject to the surrender charge rules"
+246,Indemnification,0.474,3,"Therefore, a surrender charge may apply to such
+withdrawals"
+247,Termination,0.446,3,"Withdrawals, including RMDs, could significantly reduce the values under the Riders, perhaps by more than
+the amount of the withdrawal, and could terminate the Riders and the Contract"
+248,Warranty,0.311,2,"The Guaranteed Income Rider and Accumulation Income Rider provide a contingent guarantee that may never
 come into effect because withdrawals taken while Contract Value is greater than zero are withdrawals of the Contract
 Owner’s own money, and the Company is only required to make guaranteed payments from its general account if and
-when the Contract Value is reduced to zero",Warranty,0.311,2
-249,"The Guaranteed Minimum Accumulation Rider provides a guarantee that may never come into effect because
+when the Contract Value is reduced to zero"
+249,Warranty,0.461,2,"The Guaranteed Minimum Accumulation Rider provides a guarantee that may never come into effect because
 Contract Value may never be less than the Guaranteed Minimum Accumulation Benefit Amount, and the possibility that
-the Company will be required to pay the Guaranteed Minimum Accumulation Benefit Amount may be minimal",Warranty,0.461,2
-250,"While the Guaranteed Minimum Accumulation Rider provides a guarantee that is designed to provide a minimum
+the Company will be required to pay the Guaranteed Minimum Accumulation Benefit Amount may be minimal"
+250,Warranty,0.558,2,"While the Guaranteed Minimum Accumulation Rider provides a guarantee that is designed to provide a minimum
 Contract Value, additional Purchase Payments made after the first 12 months of the Accumulation Benefit Period will
-not be included in the Accumulation Benefit Base",Warranty,0.558,2
-251,"Any additional Purchase Payments made after the first 12 months
+not be included in the Accumulation Benefit Base"
+251,Warranty,0.395,2,"Any additional Purchase Payments made after the first 12 months
 will increase the Contract Value but not the Accumulation Benefit Base and may reduce the likelihood of receiving the
-benefit provided by the Guaranteed Minimum Accumulation Rider",Warranty,0.395,2
-252,"Subsequent Purchase Payments are not permitted during the Withdrawal Phase of the Accumulation Income
+benefit provided by the Guaranteed Minimum Accumulation Rider"
+252,Termination,0.335,3,"Subsequent Purchase Payments are not permitted during the Withdrawal Phase of the Accumulation Income
 Rider, which means that the Purchase Payments cannot be used at that time to increase Contract Value, the death
-benefit or the Accumulation Income Benefit Base",Termination,0.335,3
-253,"If you select an optional benefit Rider, you are not permitted to invest in the Short-Term Fixed Account",Warranty,0.362,2
-254,"In the
-future we may change this restriction or add new ones relating to other Investment Options",Warranty,0.275,2
-255,"Taxes
+benefit or the Accumulation Income Benefit Base"
+253,Warranty,0.362,2,"If you select an optional benefit Rider, you are not permitted to invest in the Short-Term Fixed Account"
+254,Warranty,0.275,2,"In the
+future we may change this restriction or add new ones relating to other Investment Options"
+255,Warranty,0.272,2,"Taxes
 You can transfer money between Investment Options without tax implications, and earnings (if any) on your
-investments are generally tax-deferred",Warranty,0.272,2
-256,"You are taxed only: (1) when you make a surrender or withdrawal; (2) when
-you receive an income payment from the Contract; or (3) upon payment of a death benefit",Indemnification,0.355,3
-257,"That means Contract
+investments are generally tax-deferred"
+256,Indemnification,0.355,3,"You are taxed only: (1) when you make a surrender or withdrawal; (2) when
+you receive an income payment from the Contract; or (3) upon payment of a death benefit"
+257,Confidentiality,0.25,1,"That means Contract
 Owners enjoy tax-deferred growth, which provides greater earnings potential as compared to a fully taxable
-investment",Confidentiality,0.25,1
-258,"BENEFITS AVAILABLE UNDER THE DEFERRED VARIABLE ANNUITY CONTRACT
+investment"
+258,Termination,0.302,3,"BENEFITS AVAILABLE UNDER THE DEFERRED VARIABLE ANNUITY CONTRACT
 The following table summarizes information about the benefits available under the Contract:
  
  
@@ -917,8 +917,8 @@ Anniversary until age 80
   
 Optional
   
-0",Termination,0.302,3
-259,"75% (as a
+0"
+259,Warranty,0.294,2,"75% (as a
 percentage
 of the
 benefit
@@ -955,8 +955,8 @@ Step-Up Age
   
 Optional
   
-2",Warranty,0.294,2
-260,"50% (as a
+2"
+260,Warranty,0.364,2,"50% (as a
 percentage
 of the
 benefit
@@ -1013,8 +1013,8 @@ market performance
   
 Optional
   
-2",Warranty,0.364,2
-261,"00% (as a
+2"
+261,Termination,0.419,3,"00% (as a
 percentage
 of the
 benefit
@@ -1079,8 +1079,8 @@ period periodically
   
 Optional
   
-1",Termination,0.419,3
-262,"50% (as a
+1"
+262,Warranty,0.348,2,"50% (as a
 percentage
 of the
 benefit
@@ -1107,8 +1107,8 @@ Accumulation Benefit
 Period will not be
 included in the
 Accumulation Benefit
-Base",Warranty,0.348,2
-263,"Any additional
+Base"
+263,Warranty,0.414,2,"Any additional
 Purchase Payments
 made after the first 12
 months will increase the
@@ -1185,32 +1185,32 @@ automatic asset
 rebalancing may not be
 elected at the same time
 Subject to the Company’s right to discontinue or suspend the offering of optional benefits for new sales from
-time to time, you can purchase the optional benefits described above in addition to your Base Contract",Warranty,0.414,2
-264,"There is an
-additional fee for certain of the optional benefits",Warranty,0.377,2
-265,"Combining Optional Benefits
+time to time, you can purchase the optional benefits described above in addition to your Base Contract"
+264,Warranty,0.377,2,"There is an
+additional fee for certain of the optional benefits"
+265,Termination,0.437,3,"Combining Optional Benefits
 You may elect the Enhanced Death Benefit Rider with the Accumulation Income Rider, the Guaranteed
-Income Rider, or the Guaranteed Minimum Accumulation Rider",Termination,0.437,3
-266,No other combinations of Riders are permitted,Termination,0.339,3
-267,You may not elect Automatic Asset Rebalancing and Dollar Cost Averaging at the same time,Warranty,0.314,2
-268,"BUYING THE DEFERRED VARIABLE ANNUITY CONTRACT
+Income Rider, or the Guaranteed Minimum Accumulation Rider"
+266,Termination,0.339,3,No other combinations of Riders are permitted
+267,Warranty,0.314,2,You may not elect Automatic Asset Rebalancing and Dollar Cost Averaging at the same time
+268,Warranty,0.321,2,"BUYING THE DEFERRED VARIABLE ANNUITY CONTRACT
 Your financial professional will assist you in completing an application and sending it with a check for your
-first Purchase Payment, to our Administrative Office",Warranty,0.321,2
-269,"We accept a complete application to purchase a Contract within two business days after we receive it at our
-Administrative Office",Warranty,0.301,2
-270,"If you send us an incomplete application, we will return your Purchase Payment to you within five
-business days unless you ask us to keep it while you complete the application",Warranty,0.776,2
-271,"All Subsequent Purchase Payments should be sent to the address specified in “How Do I Communicate
-With PIA — Contact Information",Payment Terms,0.35,2
-272,"”
+first Purchase Payment, to our Administrative Office"
+269,Warranty,0.301,2,"We accept a complete application to purchase a Contract within two business days after we receive it at our
+Administrative Office"
+270,Warranty,0.776,2,"If you send us an incomplete application, we will return your Purchase Payment to you within five
+business days unless you ask us to keep it while you complete the application"
+271,Payment Terms,0.35,2,"All Subsequent Purchase Payments should be sent to the address specified in “How Do I Communicate
+With PIA — Contact Information"
+272,Indemnification,0.474,3,"”
 We reserve the right to limit, suspend, or reject any additional Purchase Payment at any time, but
-would do so only on a non-discriminatory basis",Indemnification,0.474,3
-273,"15
+would do so only on a non-discriminatory basis"
+273,Termination,0.369,3,"15
 Purchase Payment Requirements
 Minimum Purchase Payment
-The Contract will not be issued until PIA has received the minimum payment required to open the Contract",Termination,0.369,3
-274,The table below summarizes the minimum initial and Subsequent Purchase Payment requirements by market type,Warranty,0.52,2
-275,"Market Type
+The Contract will not be issued until PIA has received the minimum payment required to open the Contract"
+274,Warranty,0.52,2,The table below summarizes the minimum initial and Subsequent Purchase Payment requirements by market type
+275,Payment Terms,0.508,2,"Market Type
   Payment Type
   
                          
@@ -1235,144 +1235,144 @@ $2503
  
  
   1
-ERISA Defined Benefit Plans must be approved by the Advanced Sales Department prior to opening",Payment Terms,0.508,2
-276,"2
+ERISA Defined Benefit Plans must be approved by the Advanced Sales Department prior to opening"
+276,Payment Terms,0.214,2,"2
 For approved qualified employer-sponsored plans (SEP IRA, Simple IRA, or ERISA Defined Benefit Plan) funding the annuity through payroll
 deduction or on-going employer contributions, Initial Purchase Payment requirement must be satisfied by Purchase Payments made in the first
-Contract Year",Payment Terms,0.214,2
-277,"The Contract will be terminated if the Minimum Initial Purchase Payment is not satisfied within 12 months of the issue
-date of your Contract, and all Purchase Payments made to date (adjusted for withdrawals) will be returned to you",Warranty,0.523,2
-278,"The amount of Net
-Purchase Payments to be refunded will not be adjusted for market gains or losses incurred during this period",Warranty,0.479,2
-279,"3
+Contract Year"
+277,Warranty,0.523,2,"The Contract will be terminated if the Minimum Initial Purchase Payment is not satisfied within 12 months of the issue
+date of your Contract, and all Purchase Payments made to date (adjusted for withdrawals) will be returned to you"
+278,Warranty,0.479,2,"The amount of Net
+Purchase Payments to be refunded will not be adjusted for market gains or losses incurred during this period"
+279,Warranty,0.481,2,"3
 If SEP IRA, Simple IRA, or ERISA Defined Benefit Plan market types are elected at issue, the minimum Subsequent Purchase Payment is
-$250 annually, and $25 per payment minimum under the automatic investment program",Warranty,0.481,2
-280,"Maximum Purchase Payment
-We will accept up to $2,000,000 in cumulative Purchase Payments",Payment Terms,0.367,2
-281,"This limit applies across all variable
-annuity contracts issued by the Company and its affiliates for the same Contract Owner (if natural person) or Annuitant",Indemnification,0.219,3
-282,We reserve the right to change the amount of cumulative Purchase Payments we will accept,Warranty,0.274,2
-283,"In addition, we reserve
-the right to reject any Purchase Payment at any time for any reason",Indemnification,0.318,3
-284,"Allocation of Initial and Subsequent Purchase Payments
+$250 annually, and $25 per payment minimum under the automatic investment program"
+280,Payment Terms,0.367,2,"Maximum Purchase Payment
+We will accept up to $2,000,000 in cumulative Purchase Payments"
+281,Indemnification,0.219,3,"This limit applies across all variable
+annuity contracts issued by the Company and its affiliates for the same Contract Owner (if natural person) or Annuitant"
+282,Warranty,0.274,2,We reserve the right to change the amount of cumulative Purchase Payments we will accept
+283,Indemnification,0.318,3,"In addition, we reserve
+the right to reject any Purchase Payment at any time for any reason"
+284,Warranty,0.64,2,"Allocation of Initial and Subsequent Purchase Payments
 Your Initial and Subsequent Purchase Payments will be allocated to the Variable Investment Options and to
 the Fixed Account Options as you specify in the application for the Contract, unless you direct that the Subsequent
-Purchase Payments be allocated otherwise (subject to the limitations with the presence of an optional benefit)",Warranty,0.64,2
-285,Subsequent Purchase Payments may be made at any time without prior notice to the Company,Termination,0.278,3
-286,"All Purchase
-Payments are subject to the minimum and maximum amount limitations",Warranty,0.612,2
-287,"Allocation of payments may be subject to
-limitations if any optional benefits are present",Warranty,0.493,2
-288,"In addition, we reserve the right to reject any Purchase Payment at any
-time for any reason",Indemnification,0.318,3
-289,"Owner/Annuitant Requirements
+Purchase Payments be allocated otherwise (subject to the limitations with the presence of an optional benefit)"
+285,Termination,0.278,3,Subsequent Purchase Payments may be made at any time without prior notice to the Company
+286,Warranty,0.612,2,"All Purchase
+Payments are subject to the minimum and maximum amount limitations"
+287,Warranty,0.493,2,"Allocation of payments may be subject to
+limitations if any optional benefits are present"
+288,Indemnification,0.318,3,"In addition, we reserve the right to reject any Purchase Payment at any
+time for any reason"
+289,Warranty,0.672,2,"Owner/Annuitant Requirements
 You must specify the Owner and Annuitant information at the time of application, and the name(s) of
-Owner(s) and Annuitant(s) that you specify will be displayed on your Contract Specifications Page",Warranty,0.672,2
-290,"Designation of
-Contract Owner(s) and Annuitant(s) will be effective on the Contract Date",Indemnification,0.689,3
-291,"•
-  No more than two natural persons may be named in the Contract as Owner(s) and/or Annuitant(s)",Indemnification,0.705,3
-292,"•
+Owner(s) and Annuitant(s) that you specify will be displayed on your Contract Specifications Page"
+290,Indemnification,0.689,3,"Designation of
+Contract Owner(s) and Annuitant(s) will be effective on the Contract Date"
+291,Indemnification,0.705,3,"•
+  No more than two natural persons may be named in the Contract as Owner(s) and/or Annuitant(s)"
+292,Indemnification,0.732,3,"•
   If you are the sole Owner of the Contract, you may designate yourself as an Annuitant, or an
-Annuitant other than yourself",Indemnification,0.732,3
-293,"However, if you designate Joint Annuitants, you must be one of the
-Annuitants",Indemnification,0.409,3
-294,"•
+Annuitant other than yourself"
+293,Indemnification,0.409,3,"However, if you designate Joint Annuitants, you must be one of the
+Annuitants"
+294,Indemnification,0.256,3,"•
   If your Contract is owned by an entity, joint ownership is not permitted, and there can only be one
-Annuitant",Indemnification,0.256,3
-295,"•
-  If your Contract is jointly owned, both Contract Owners must be natural persons",Indemnification,0.575,3
-296,"If the Contract is
-jointly owned and there is one Annuitant, he/she must be a Contract Owner",Indemnification,0.509,3
-297,"If the Contract is jointly
-owned and there are Joint Annuitants, Annuitants must be the Contract Owners",Indemnification,0.594,3
-298,"16
+Annuitant"
+295,Indemnification,0.575,3,"•
+  If your Contract is jointly owned, both Contract Owners must be natural persons"
+296,Indemnification,0.509,3,"If the Contract is
+jointly owned and there is one Annuitant, he/she must be a Contract Owner"
+297,Indemnification,0.594,3,"If the Contract is jointly
+owned and there are Joint Annuitants, Annuitants must be the Contract Owners"
+298,Indemnification,0.507,3,"16
  
 •
   If you are not the Annuitant, you can designate yourself as Contingent Annuitant in the Contract,
 and become the Annuitant in the event that the Annuitant dies before the Contract is terminated or
-annuitized",Indemnification,0.507,3
-299,"•
+annuitized"
+299,Indemnification,0.435,3,"•
   If you purchase an optional benefit in addition to your Base Contract, additional Contract
-Owner/Annuitant requirements may apply",Indemnification,0.435,3
-300,"Issue Age Requirements
+Owner/Annuitant requirements may apply"
+300,Warranty,0.25,2,"Issue Age Requirements
 Issue age represented in the Contract is based on the age of the Owner and is determined by Age Nearest
-Birthday",Warranty,0.25,2
-301,Age Nearest Birthday is the age rounded to nearest whole number of years,Intellectual Property,0.922,2
-302,"If the Contract is jointly owned,
-both Owners must meet the issue age requirements",Indemnification,0.392,3
-303,"If the Owner is an entity, then the issue age represented in the
-Contract is based on the age of the Annuitant(s)",Indemnification,0.486,3
-304,Annuitant(s) must also meet the issue age requirements of the Contract,Indemnification,0.755,3
-305,"If you have not elected any available optional benefits under your Contract, the issue age requirement is
-0-85",Termination,0.367,3
-306,"If you wish to elect any available optional benefit, the issue age requirements may be different from the
-requirement noted above",Warranty,0.496,2
-307,"Please see “Issue Age Requirements” subsection of the appropriate optional benefit section
-that applies to you",Payment Terms,0.249,2
-308,"If you have an optional benefit, you will be subject to the strictest age requirement of your Base
-Contract Option/optional benefit combination",Warranty,0.33,2
-309,"Tax Free “Section 1035” Insurance Contract Exchanges
+Birthday"
+301,Intellectual Property,0.922,2,Age Nearest Birthday is the age rounded to nearest whole number of years
+302,Indemnification,0.392,3,"If the Contract is jointly owned,
+both Owners must meet the issue age requirements"
+303,Indemnification,0.486,3,"If the Owner is an entity, then the issue age represented in the
+Contract is based on the age of the Annuitant(s)"
+304,Indemnification,0.755,3,Annuitant(s) must also meet the issue age requirements of the Contract
+305,Termination,0.367,3,"If you have not elected any available optional benefits under your Contract, the issue age requirement is
+0-85"
+306,Warranty,0.496,2,"If you wish to elect any available optional benefit, the issue age requirements may be different from the
+requirement noted above"
+307,Payment Terms,0.249,2,"Please see “Issue Age Requirements” subsection of the appropriate optional benefit section
+that applies to you"
+308,Warranty,0.33,2,"If you have an optional benefit, you will be subject to the strictest age requirement of your Base
+Contract Option/optional benefit combination"
+309,Termination,0.286,3,"Tax Free “Section 1035” Insurance Contract Exchanges
 Generally, you can exchange one annuity contract for another in a “tax-free exchange” under Section 1035
-of the Code",Termination,0.286,3
-310,"Before making an exchange, you should compare both contracts carefully",Warranty,0.293,2
-311,"Remember that if you
+of the Code"
+310,Warranty,0.293,2,"Before making an exchange, you should compare both contracts carefully"
+311,Termination,0.351,3,"Remember that if you
 exchange another contract for the one described in this Summary Prospectus, you might have to pay a Surrender
-Charge on your old contract",Termination,0.351,3
-312,"Also, some charges may be higher (or lower), and the benefits may be different",Termination,0.385,3
-313,"If the
+Charge on your old contract"
+312,Termination,0.385,3,"Also, some charges may be higher (or lower), and the benefits may be different"
+313,Confidentiality,0.381,1,"If the
 exchange does not qualify for Section 1035 treatment, you may have to pay federal income and penalty taxes as a
-result of the exchange",Confidentiality,0.381,1
-314,"You should not exchange another contract for this one unless you determine, after knowing all
-of the facts, that the exchange is in your best interest",Indemnification,0.37,3
-315,"The Surrender Value of your existing contract may be impacted by increases or decreases in contract values
+result of the exchange"
+314,Indemnification,0.37,3,"You should not exchange another contract for this one unless you determine, after knowing all
+of the facts, that the exchange is in your best interest"
+315,Warranty,0.758,2,"The Surrender Value of your existing contract may be impacted by increases or decreases in contract values
 that result from market fluctuations during the period between submission of the exchange request and actual
-processing",Warranty,0.758,2
-316,"The Surrender Value may be calculated (by the existing contract issuer) sometime after we receive your
-exchange request in good order",Warranty,0.651,2
-317,"In addition, as we will not issue the new contract until we have received an initial
-premium from your existing insurance company, the issuance of the contract in an exchange could be delayed",Indemnification,0.355,3
-318,"The Variable Account Value
+processing"
+316,Warranty,0.651,2,"The Surrender Value may be calculated (by the existing contract issuer) sometime after we receive your
+exchange request in good order"
+317,Indemnification,0.355,3,"In addition, as we will not issue the new contract until we have received an initial
+premium from your existing insurance company, the issuance of the contract in an exchange could be delayed"
+318,Warranty,0.785,2,"The Variable Account Value
 Your assets in the Separate Account are held as Accumulation Units of the Variable Investment Options that
-you select",Warranty,0.785,2
-319,"An Accumulation Unit is a unit of measure used to compute the Variable Account Value under the Contract
-prior to the Annuity Date",Warranty,0.423,2
-320,"The Variable Account Value is the sum of the values of the Accumulation Units held in the
-Variable Investment Options for this Contract",Warranty,0.624,2
-321,"Accumulation Units — Valuation
-We value Accumulation Units as of the close of regular trading on the NYSE (generally, 4:00 p",Warranty,0.285,2
-322,"When
+you select"
+319,Warranty,0.423,2,"An Accumulation Unit is a unit of measure used to compute the Variable Account Value under the Contract
+prior to the Annuity Date"
+320,Warranty,0.624,2,"The Variable Account Value is the sum of the values of the Accumulation Units held in the
+Variable Investment Options for this Contract"
+321,Warranty,0.285,2,"Accumulation Units — Valuation
+We value Accumulation Units as of the close of regular trading on the NYSE (generally, 4:00 p"
+322,Warranty,0.669,2,"When
 you invest in, withdraw from, or transfer money to a Variable Investment Option, you receive the Accumulation Unit
 value next computed after we receive your Purchase Payment or your withdrawal or transfer request at our
-Administrative Office",Warranty,0.669,2
-323,"Allocation, withdrawal, and transfer instructions received from you or the agent of record
+Administrative Office"
+323,Warranty,0.381,2,"Allocation, withdrawal, and transfer instructions received from you or the agent of record
 (pursuant to your instruction) at our Administrative Office after the close of regular trading on the NYSE will be valued
-based on the Accumulation Unit value computed as of the close of regular trading on the next NYSE business day",Warranty,0.381,2
-324,"In
+based on the Accumulation Unit value computed as of the close of regular trading on the next NYSE business day"
+324,Warranty,0.632,2,"In
 the case of your first Purchase Payment, you receive the price next computed after we accept your application to
-purchase a Contract",Warranty,0.632,2
-325,"The value of an Accumulation Unit varies and is determined by multiplying its last computed value by the net
-investment factor for the Variable Investment Option for the current Valuation Period",Warranty,0.707,2
-326,"The net investment factor
+purchase a Contract"
+325,Warranty,0.707,2,"The value of an Accumulation Unit varies and is determined by multiplying its last computed value by the net
+investment factor for the Variable Investment Option for the current Valuation Period"
+326,Warranty,0.49,2,"The net investment factor
 measures (1) investment performance of Portfolio shares held in the Variable Investment Option, (2) any taxes on
 income or gains from investments held in the Variable Investment Option, and (3) the Base Contract expenses
-assessed against the Variable Investment Option",Warranty,0.49,2
-327,"Therefore, the investment performance of the Portfolios, expenses
-and deduction of certain charges will affect the Accumulation Unit value and the number of Accumulation Units",Warranty,0.565,2
-328,"17
+assessed against the Variable Investment Option"
+327,Warranty,0.565,2,"Therefore, the investment performance of the Portfolios, expenses
+and deduction of certain charges will affect the Accumulation Unit value and the number of Accumulation Units"
+328,Warranty,0.265,2,"17
 The Fixed Account Value
 The Fixed Account Value is determined by the total amount of Purchase Payments allocated to the Fixed
 Account Options, adjusted by partial withdrawals, transfers, charges and expenses, and accumulated at effective
 annual rates declared by the Company, but at no less than the Minimum Guaranteed Interest Rate as described in
-Appendix B and specified in your Contract",Warranty,0.265,2
-329,"Contract Value
-Your Contract Value is the sum of the Variable Account Value and the Fixed Account Value",Warranty,0.725,2
-330,"Variable Account
-Value is the sum of the values of the Accumulation Units held in the Variable Investment Options",Warranty,0.56,2
-331,"Fixed Account Value
+Appendix B and specified in your Contract"
+329,Warranty,0.725,2,"Contract Value
+Your Contract Value is the sum of the Variable Account Value and the Fixed Account Value"
+330,Warranty,0.56,2,"Variable Account
+Value is the sum of the values of the Accumulation Units held in the Variable Investment Options"
+331,Warranty,0.536,2,"Fixed Account Value
 is the value of amounts held in all Fixed Account Options (Short-Term Fixed Account and Fixed Dollar Cost Averaging
-Options) of the Fixed Account for this Contract",Warranty,0.536,2
-332,"MAKING WITHDRAWALS: ACCESSING THE MONEY IN YOUR DEFERRED VARIABLE ANNUITY CONTRACT
+Options) of the Fixed Account for this Contract"
+332,Warranty,0.568,2,"MAKING WITHDRAWALS: ACCESSING THE MONEY IN YOUR DEFERRED VARIABLE ANNUITY CONTRACT
 How Can I Withdraw Money from the Deferred Variable Annuity Contract?
 General Information on Surrenders and Withdrawals
 You may access your Contract Value in one of the following ways:
@@ -1395,42 +1395,42 @@ You may access your Contract Value in one of the following ways:
  
  
 •
-  when you start the annuity payments based on your Contract Value",Warranty,0.568,2
-333,"Before the end of the Surrender Charge Period, you can access a portion of the money in the Contract each
-Contract Year without being assessed a Surrender Charge",Warranty,0.397,2
-334,"This is called a Free Withdrawal Amount (see “Surrender-
-Charge Free Withdrawals” above)",Warranty,0.434,2
-335,"However, if you decide to withdraw more than the Free Withdrawal Amount or
+  when you start the annuity payments based on your Contract Value"
+333,Warranty,0.397,2,"Before the end of the Surrender Charge Period, you can access a portion of the money in the Contract each
+Contract Year without being assessed a Surrender Charge"
+334,Warranty,0.434,2,"This is called a Free Withdrawal Amount (see “Surrender-
+Charge Free Withdrawals” above)"
+335,Warranty,0.338,2,"However, if you decide to withdraw more than the Free Withdrawal Amount or
 surrender the Contract during the Surrender Charge Period, you may be assessed a Surrender Charge, as further
-described above",Warranty,0.338,2
-336,"Withdrawals will reduce the Contract Value and may have a negative impact on certain optional living
-benefits and on the death benefit, and the impact could be significant",Warranty,0.301,2
-337,"A withdrawal may reduce or even terminate
-certain benefits",Termination,0.279,3
-338,"See “What Are the Supplemental Riders and Benefits That Are Available?”
+described above"
+336,Warranty,0.301,2,"Withdrawals will reduce the Contract Value and may have a negative impact on certain optional living
+benefits and on the death benefit, and the impact could be significant"
+337,Termination,0.279,3,"A withdrawal may reduce or even terminate
+certain benefits"
+338,Termination,0.374,3,"See “What Are the Supplemental Riders and Benefits That Are Available?”
 You may also be subject to tax in the tax year in which you take a withdrawal from your Contract, including a
-10% penalty tax under certain circumstances",Termination,0.374,3
-339,"See “How Is the Contract Treated Under Federal Income Tax Law?” for
-details",Governing Law,0.325,1
-340,"Full Surrender
+10% penalty tax under certain circumstances"
+339,Governing Law,0.325,1,"See “How Is the Contract Treated Under Federal Income Tax Law?” for
+details"
+340,Indemnification,0.448,3,"Full Surrender
 You can choose to surrender your Contract for its Surrender Value at any time before the death of the
 Contract Owner or Annuitant, and on or before the Annuity Date by sending a written request to our Administrative
-Office",Indemnification,0.448,3
-341,"Upon your request to surrender the Contract, all benefits under the Contract, including any optional benefits, will
-terminate as of the date of receipt of your written request by the Company",Indemnification,0.395,3
-342,"You will receive the Surrender Value, which
+Office"
+341,Indemnification,0.395,3,"Upon your request to surrender the Contract, all benefits under the Contract, including any optional benefits, will
+terminate as of the date of receipt of your written request by the Company"
+342,Warranty,0.349,2,"You will receive the Surrender Value, which
 is your Contract Value reduced by any applicable charges, such as: Surrender Charge, Rider Charges, and Annual
-Contract Administration Charge",Warranty,0.349,2
-343,"We base your Surrender Value on your Contract Value next determined after we
-receive proper authorization from the Contract Owner at our Administrative Office",Warranty,0.317,2
-344,"18
+Contract Administration Charge"
+343,Warranty,0.317,2,"We base your Surrender Value on your Contract Value next determined after we
+receive proper authorization from the Contract Owner at our Administrative Office"
+344,Indemnification,0.609,3,"18
 We guarantee that upon full surrender, your Surrender Value attributable to the Fixed Accounts will not be
-less than the amount required by the applicable state nonforfeiture law at the time the Contract is issued",Indemnification,0.609,3
-345,"Withdrawals Treated as Surrenders
+less than the amount required by the applicable state nonforfeiture law at the time the Contract is issued"
+345,Indemnification,0.628,3,"Withdrawals Treated as Surrenders
 In some circumstances, we reserve the right to treat your withdrawal as a full surrender, or to initiate a
-payment of the Surrender Value to you",Indemnification,0.628,3
-346,This will cause your Contract and any optional benefits to terminate,Termination,0.734,3
-347,"The following withdrawals will be treated as full surrenders:
+payment of the Surrender Value to you"
+346,Termination,0.734,3,This will cause your Contract and any optional benefits to terminate
+347,Warranty,0.422,2,"The following withdrawals will be treated as full surrenders:
  
  
 •
@@ -1442,48 +1442,48 @@ is present),
 •
   Any withdrawal that would result in the amount remaining in the Contract to be less than the
 Minimum Remaining Balance of $2,000, or less than $250 remains in each Variable Investment
-Option or Short-Term Fixed Account",Warranty,0.422,2
-348,"These rules do not apply to RMDs, Lifetime Withdrawals taken
+Option or Short-Term Fixed Account"
+348,Force Majeure,0.197,1,"These rules do not apply to RMDs, Lifetime Withdrawals taken
 under the Accumulation Income Rider, or living benefit withdrawals taken under the Guaranteed
-Income Rider",Force Majeure,0.197,1
-349,"Withdrawal requests that would cause the Contract Value to reduce to zero or fall below the Minimum
-Remaining Balance will not be processed",Warranty,0.712,2
-350,"You will have the option of processing a full surrender or cancelling your
-withdrawal request",Warranty,0.579,2
-351,"If the Contract Value is reduced to zero as a result of deduction of fees or charges by the
+Income Rider"
+349,Warranty,0.712,2,"Withdrawal requests that would cause the Contract Value to reduce to zero or fall below the Minimum
+Remaining Balance will not be processed"
+350,Warranty,0.579,2,"You will have the option of processing a full surrender or cancelling your
+withdrawal request"
+351,Termination,0.429,3,"If the Contract Value is reduced to zero as a result of deduction of fees or charges by the
 Company, the Contract will be terminated as of the date of deduction and notification of termination will be made to the
-Contract Owner",Termination,0.429,3
-352,"We also reserve the right to terminate the Contract and any applicable Death Benefit by initiating a payment
+Contract Owner"
+352,Indemnification,0.332,3,"We also reserve the right to terminate the Contract and any applicable Death Benefit by initiating a payment
 of the Surrender Value to you, if there is no Purchase Payment activity during the two most recent Contract Years, and
-the Contract Value is less than the Minimum Remaining Balance specified above",Indemnification,0.332,3
-353,"The Company will notify the Contract Owner 60 days prior to terminating the Contract, by sending a notice to
-the Contract Owner’s address on file",Warranty,0.405,2
-354,A second notice will be sent 30 days prior to the date of termination,Payment Terms,0.581,2
-355,"If no action
+the Contract Value is less than the Minimum Remaining Balance specified above"
+353,Warranty,0.405,2,"The Company will notify the Contract Owner 60 days prior to terminating the Contract, by sending a notice to
+the Contract Owner’s address on file"
+354,Payment Terms,0.581,2,A second notice will be sent 30 days prior to the date of termination
+355,Termination,0.509,3,"If no action
 is taken by the Contract Owner to increase the Contract Value to the required minimum, the Contract will be terminated
-by the Company and the Surrender Value will be paid to the Contract Owner",Termination,0.509,3
-356,"Partial Withdrawal
+by the Company and the Surrender Value will be paid to the Contract Owner"
+356,Indemnification,0.272,3,"Partial Withdrawal
 You may take a partial withdrawal from your Contract Value on or before the Annuity Date and the death of
-the Contract Owner or Annuitant",Indemnification,0.272,3
-357,"We base your withdrawal on your Contract Value next determined after we receive
-proper authorization from the Contract Owner at our Administrative Office",Warranty,0.298,2
-358,"We will pay you within seven days, except in
-limited circumstances",Indemnification,0.602,3
-359,"Please see “Deferment of Payments and Transfers” for more information on these limited
-circumstances",Payment Terms,0.337,2
-360,You may pay a Surrender Charge when you withdraw part of your Contract Value,Indemnification,0.228,3
-361,"See the “Surrender
-Charge” paragraph under “What Are the Fees and Charges Under the Contract?” for details",Governing Law,0.323,1
-362,"You may be subject to tax
-in the tax year in which you make a withdrawal, including an additional 10% tax under certain circumstances",Termination,0.248,3
-363,"See “How
-Is the Contract Treated Under Federal Income Tax Law?” below",Governing Law,0.364,1
-364,"The following rules and restrictions apply to partial withdrawals:
+the Contract Owner or Annuitant"
+357,Warranty,0.298,2,"We base your withdrawal on your Contract Value next determined after we receive
+proper authorization from the Contract Owner at our Administrative Office"
+358,Indemnification,0.602,3,"We will pay you within seven days, except in
+limited circumstances"
+359,Payment Terms,0.337,2,"Please see “Deferment of Payments and Transfers” for more information on these limited
+circumstances"
+360,Indemnification,0.228,3,You may pay a Surrender Charge when you withdraw part of your Contract Value
+361,Governing Law,0.323,1,"See the “Surrender
+Charge” paragraph under “What Are the Fees and Charges Under the Contract?” for details"
+362,Termination,0.248,3,"You may be subject to tax
+in the tax year in which you make a withdrawal, including an additional 10% tax under certain circumstances"
+363,Governing Law,0.364,1,"See “How
+Is the Contract Treated Under Federal Income Tax Law?” below"
+364,Warranty,0.394,2,"The following rules and restrictions apply to partial withdrawals:
  
  
 •
-  Minimum Withdrawal",Warranty,0.394,2
-365,"If it is your first withdrawal in a Contract
+  Minimum Withdrawal"
+365,Warranty,0.427,2,"If it is your first withdrawal in a Contract
 Year, the minimum withdrawal is the lesser of the following:
  
  
@@ -1497,29 +1497,29 @@ RMD amount; or
  
  
 (c)
-$500",Warranty,0.427,2
-366,"You may take a partial withdrawal only if the amount remaining in
+$500"
+366,Warranty,0.409,2,"You may take a partial withdrawal only if the amount remaining in
 the Contract after the withdrawal is at least equal to the Minimum Remaining Balance of $2,000 and
 the balance remaining in the Variable Investment Option or Short-Term Fixed Account from which
-the withdrawal is made is at least $250",Warranty,0.409,2
-367,"If you take a withdrawal that brings the Contract Value to zero, your Contract
+the withdrawal is made is at least $250"
+367,Termination,0.603,3,"If you take a withdrawal that brings the Contract Value to zero, your Contract
 will be terminated (unless the Guaranteed Income Rider is present or the Accumulation Income
-Rider is present)",Termination,0.603,3
-368,"If you do not tell us otherwise, the withdrawal will be taken pro-rata from
+Rider is present)"
+368,Warranty,0.681,2,"If you do not tell us otherwise, the withdrawal will be taken pro-rata from
 the Variable Investment Options, and then any remaining amount will be taken from the Short-Term
-Fixed Account",Warranty,0.681,2
-369,"Within the Short-Term Fixed Account, partial withdrawals will be made from amounts
-most recently allocated, renewed, or transferred",Warranty,0.482,2
-370,"If there is not enough value in these accounts,
-withdrawals will be taken from the Fixed Dollar Cost Averaging Account",Warranty,0.807,2
-371,"Systematic Withdrawals
+Fixed Account"
+369,Warranty,0.482,2,"Within the Short-Term Fixed Account, partial withdrawals will be made from amounts
+most recently allocated, renewed, or transferred"
+370,Warranty,0.807,2,"If there is not enough value in these accounts,
+withdrawals will be taken from the Fixed Dollar Cost Averaging Account"
+371,Warranty,0.291,2,"Systematic Withdrawals
 Systematic withdrawals are regular payments that we make to you on a monthly, quarterly, semi-annual, or
-annual basis",Warranty,0.291,2
-372,"It is a convenient way for you to withdraw your annual Free Withdrawal Amount without incurring a
-Surrender Charge, as well as to take RMDs or withdrawals under optional benefits",Warranty,0.63,2
-373,"Systematic withdrawals are
-available if you have not exhausted your Free Withdrawal Amount in the current Contract Year",Warranty,0.572,2
-374,"Currently, we offer the following systematic withdrawal options:
+annual basis"
+372,Warranty,0.63,2,"It is a convenient way for you to withdraw your annual Free Withdrawal Amount without incurring a
+Surrender Charge, as well as to take RMDs or withdrawals under optional benefits"
+373,Warranty,0.572,2,"Systematic withdrawals are
+available if you have not exhausted your Free Withdrawal Amount in the current Contract Year"
+374,Warranty,0.308,2,"Currently, we offer the following systematic withdrawal options:
  
  
 •
@@ -1540,243 +1540,243 @@ Accumulation Income Rider,
  
  
 •
-  Substantially Equal Periodic Payments under Code Section 72(q)/(t)",Warranty,0.308,2
-375,"The total amount that you withdraw in a Contract Year under the systematic withdrawal plan cannot exceed
-your Free Withdrawal Amount",Warranty,0.368,2
-376,"However, RMD withdrawals and Guaranteed Annual Withdrawal Amounts under the
+  Substantially Equal Periodic Payments under Code Section 72(q)/(t)"
+375,Warranty,0.368,2,"The total amount that you withdraw in a Contract Year under the systematic withdrawal plan cannot exceed
+your Free Withdrawal Amount"
+376,Warranty,0.41,2,"However, RMD withdrawals and Guaranteed Annual Withdrawal Amounts under the
 Guaranteed Income Rider and the Accumulation Income Rider can be taken systematically, even if they exceed your
 Free Withdrawal Amount (although Surrender Charges may apply to any amount in excess of the Free Withdrawal
-Amount)",Warranty,0.41,2
-377,"The withdrawals can be taken on a monthly, quarterly, semi-annual, or annual basis, and the minimum
-amount of each withdrawal payment is $50",Warranty,0.32,2
-378,"We will adjust the frequency of your payments so that payments are at
-least $50 each",Warranty,0.744,2
-379,"For example, if you would like to withdraw $100 a year, you can set up annual or semi-annual
-withdrawals, but not quarterly or monthly",Warranty,0.315,2
-380,"Your payments will begin on the next withdrawal date following one modal
-period after we receive your request",Warranty,0.633,2
-381,"For example, if we receive your request for quarterly withdrawals on January 3,
-and the next withdrawal date is the 8th of the month, your quarterly withdrawals will begin on April 8",Warranty,0.58,2
-382,"Please note that
-no confirmations will be sent on systematic withdrawals but will be reflected on statements",Payment Terms,0.592,2
-383,"For information on the tax
-treatment of withdrawals, see “How Is the Contract Treated Under Federal Income Tax Law?” below",Governing Law,0.225,1
-384,"In the Contract Year when the systematic withdrawals are elected for the first time, the entire amount of the
+Amount)"
+377,Warranty,0.32,2,"The withdrawals can be taken on a monthly, quarterly, semi-annual, or annual basis, and the minimum
+amount of each withdrawal payment is $50"
+378,Warranty,0.744,2,"We will adjust the frequency of your payments so that payments are at
+least $50 each"
+379,Warranty,0.315,2,"For example, if you would like to withdraw $100 a year, you can set up annual or semi-annual
+withdrawals, but not quarterly or monthly"
+380,Warranty,0.633,2,"Your payments will begin on the next withdrawal date following one modal
+period after we receive your request"
+381,Warranty,0.58,2,"For example, if we receive your request for quarterly withdrawals on January 3,
+and the next withdrawal date is the 8th of the month, your quarterly withdrawals will begin on April 8"
+382,Payment Terms,0.592,2,"Please note that
+no confirmations will be sent on systematic withdrawals but will be reflected on statements"
+383,Governing Law,0.225,1,"For information on the tax
+treatment of withdrawals, see “How Is the Contract Treated Under Federal Income Tax Law?” below"
+384,Warranty,0.385,2,"In the Contract Year when the systematic withdrawals are elected for the first time, the entire amount of the
 withdrawal requested will be disbursed among the remaining systematic withdrawal payments to be made prior to the
-next Contract Anniversary",Warranty,0.385,2
-385,"Systematic withdrawal amounts will then be recalculated upon the next Contract
-Anniversary to reflect the annual withdrawal amount requested and a full year of systematic payments",Warranty,0.313,2
-386,"For example, if
+next Contract Anniversary"
+385,Warranty,0.313,2,"Systematic withdrawal amounts will then be recalculated upon the next Contract
+Anniversary to reflect the annual withdrawal amount requested and a full year of systematic payments"
+386,Warranty,0.555,2,"For example, if
 you request your Free Withdrawal Amount be withdrawn with monthly systematic withdrawals and there are four
 months remaining in your Contract Year, you will receive the entire Free Withdrawal Amount divided by the four
-payments remaining in your Contract Year",Warranty,0.555,2
-387,"Upon your next Contract Anniversary, your monthly systematic withdrawal
-payment will be recalculated to be 1/12 of the annual Free Withdrawal Amount",Warranty,0.371,2
-388,"This could result in lower systematic
-withdrawal payments in your second year of withdrawal",Warranty,0.29,2
-389,"The Free Withdrawal Amount will not be recalculated to reflect
-Subsequent Purchase Payments until the next Contract Anniversary",Warranty,0.407,2
-390,"If you do not tell us otherwise, the withdrawal will be taken pro-rata from the
-Variable Investment Options, and then any remaining amount will be taken from the Short-Term Fixed Account",Warranty,0.681,2
-391,"Within
+payments remaining in your Contract Year"
+387,Warranty,0.371,2,"Upon your next Contract Anniversary, your monthly systematic withdrawal
+payment will be recalculated to be 1/12 of the annual Free Withdrawal Amount"
+388,Warranty,0.29,2,"This could result in lower systematic
+withdrawal payments in your second year of withdrawal"
+389,Warranty,0.407,2,"The Free Withdrawal Amount will not be recalculated to reflect
+Subsequent Purchase Payments until the next Contract Anniversary"
+390,Warranty,0.681,2,"If you do not tell us otherwise, the withdrawal will be taken pro-rata from the
+Variable Investment Options, and then any remaining amount will be taken from the Short-Term Fixed Account"
+391,Warranty,0.482,2,"Within
 the Short-Term Fixed Account, partial withdrawals will be made from amounts most recently allocated, renewed, or
-transferred",Warranty,0.482,2
-392,"If there is not enough value in these accounts, withdrawals will be taken from the Fixed Dollar Cost
-Averaging Account",Warranty,0.807,2
-393,"To stop the systematic withdrawals or to change the amount or
+transferred"
+392,Warranty,0.807,2,"If there is not enough value in these accounts, withdrawals will be taken from the Fixed Dollar Cost
+Averaging Account"
+393,Warranty,0.653,2,"To stop the systematic withdrawals or to change the amount or
 the frequency of the withdrawals once systematic withdrawals are initiated, you must submit a request by sending a
-written notice to our Administrative Office or calling Customer Service",Warranty,0.653,2
-394,"The systematic withdrawals will terminate upon
-the earlier of the death of the Contract Owner or the Annuitant, or upon Contract Owner’s request",Indemnification,0.574,3
-395,"Systematic
-withdrawals will be subject to Surrender Charge if the annual amount withdrawn exceeds the Free Withdrawal Amount",Warranty,0.62,2
-396,"All withdrawals during the Contract Year are considered in the determination of the Free Withdrawal Amount withdrawn
-and the point at which Surrender Charges will be assessed for additional withdrawals",Warranty,0.556,2
-397,"Substantially Equal Periodic Payments under Code Sections 72(q) or 72(t)
+written notice to our Administrative Office or calling Customer Service"
+394,Indemnification,0.574,3,"The systematic withdrawals will terminate upon
+the earlier of the death of the Contract Owner or the Annuitant, or upon Contract Owner’s request"
+395,Warranty,0.62,2,"Systematic
+withdrawals will be subject to Surrender Charge if the annual amount withdrawn exceeds the Free Withdrawal Amount"
+396,Warranty,0.556,2,"All withdrawals during the Contract Year are considered in the determination of the Free Withdrawal Amount withdrawn
+and the point at which Surrender Charges will be assessed for additional withdrawals"
+397,Indemnification,0.198,3,"Substantially Equal Periodic Payments under Code Sections 72(q) or 72(t)
 If a withdrawal is taken from the annuity contract before age 59 1⁄2, the IRS generally imposes a 10% early
-withdrawal penalty on such distributions",Indemnification,0.198,3
-398,"However, substantially equal periodic payments under Code Section 72(q) or
-72(t) are exempt from the 10% penalty tax on early distributions",Force Majeure,0.222,1
-399,"If you choose to exercise this option, you will be
+withdrawal penalty on such distributions"
+398,Force Majeure,0.222,1,"However, substantially equal periodic payments under Code Section 72(q) or
+72(t) are exempt from the 10% penalty tax on early distributions"
+399,Confidentiality,0.344,1,"If you choose to exercise this option, you will be
 required to irrevocably choose one of the three acceptable methods (as defined by IRS guidance) and receive these
-payments until the later of five years or attainment of age 59 1⁄2",Confidentiality,0.344,1
-400,"If you wish to take withdrawals under Code Sections 72(q) or 72 (t) (prior to age 59 1⁄2 of the Contract
-Owner, or Annuitant for entity owned Contracts), you may do so systematically",Indemnification,0.346,3
-401,"Section 72 (q)/(t) withdrawals do not
-receive any special treatment under the Surrender Charge provision",Indemnification,0.298,3
-402,"If your withdrawal exceeds the annual Free
+payments until the later of five years or attainment of age 59 1⁄2"
+400,Indemnification,0.346,3,"If you wish to take withdrawals under Code Sections 72(q) or 72 (t) (prior to age 59 1⁄2 of the Contract
+Owner, or Annuitant for entity owned Contracts), you may do so systematically"
+401,Indemnification,0.298,3,"Section 72 (q)/(t) withdrawals do not
+receive any special treatment under the Surrender Charge provision"
+402,Warranty,0.329,2,"If your withdrawal exceeds the annual Free
 Withdrawal Amount, you will be subject to Surrender Charges as shown in the “Surrender Charge” section under “What
 Are the Fees and Charges Under the Contract?” If you purchased an optional benefit with your Contract, please refer
 to the appropriate optional benefit section for details on substantially equal periodic payments’ treatment under your
-optional benefit",Warranty,0.329,2
-403,"Revocation Rights
+optional benefit"
+403,Warranty,0.306,2,"Revocation Rights
 If you are a new purchaser of a Contract, you may cancel your Contract within 10 days of receiving it without
-paying fees or penalties",Warranty,0.306,2
-404,If the Contract is a “Replacement Contract” (i,Termination,0.325,3
-405,", it has been purchased with the proceeds
-from the surrender of another annuity contract you own), it may be cancelled within 30 days of receipt",Termination,0.502,3
-406,"In either
+paying fees or penalties"
+404,Termination,0.325,3,If the Contract is a “Replacement Contract” (i
+405,Termination,0.502,3,", it has been purchased with the proceeds
+from the surrender of another annuity contract you own), it may be cancelled within 30 days of receipt"
+406,Indemnification,0.576,3,"In either
 situation, simply mail the Contract to the Company or the financial professional through whom it was purchased, along
-with a written request to cancel the Contract based on this provision",Indemnification,0.576,3
-407,"The Company will refund the amount calculated in
+with a written request to cancel the Contract based on this provision"
+407,Indemnification,0.686,3,"The Company will refund the amount calculated in
 accordance with state law, which is generally the Contract Value and any fees or charges deducted as of the date the
-notification and the Contract are received",Indemnification,0.686,3
-408,"What Is Annuitization and How Do I Annuitize the Deferred Variable Annuity Contract?
+notification and the Contract are received"
+408,Warranty,0.619,2,"What Is Annuitization and How Do I Annuitize the Deferred Variable Annuity Contract?
 Annuitization
 Annuitization is a process by which your Contract Value is converted into a stream of regular income
-payments",Warranty,0.619,2
-409,You may choose to annuitize your Contract after the first Contract Anniversary,Termination,0.468,3
-410,"The Guaranteed Income
+payments"
+409,Termination,0.468,3,You may choose to annuitize your Contract after the first Contract Anniversary
+410,Warranty,0.466,2,"The Guaranteed Income
 Rider and the Accumulation Income Rider may impose different Annuitization and maturity processing requirements
-than described below",Warranty,0.466,2
-411,"Partial Annuitization on Non-Qualified Contracts
+than described below"
+411,Termination,0.281,3,"Partial Annuitization on Non-Qualified Contracts
 Partial Annuitization is an irrevocable election by the Contract Owner to apply only a portion of the Contract
 Value to purchase a stream of annuity payments under the Contract, leaving the remainder of the Contract Value to
-accumulate on a tax-deferred basis",Termination,0.281,3
-412,"Partial Annuitization is only available on Non-Qualified Contracts, on or after the third Contract Anniversary",Termination,0.369,3
-413,"Partial Annuitization will be processed as of the date the written request from the Contract Owner and all required
-documentation is received by the Company",Warranty,0.64,2
-414,"If you enter the Withdrawal Phase under either the Guaranteed Income Rider or the Accumulation Income
-Rider, partial Annuitization is no longer available to you",Warranty,0.489,2
-415,"You may only elect three partial Annuitizations during the life of your Contract, and at least 12 months must
-elapse between partial Annuitizations",Indemnification,0.217,3
-416,"The amount requested for partial Annuitization must be at least $5,000 and
-cannot exceed 50% of your Contract Value",Warranty,0.452,2
-417,"21
+accumulate on a tax-deferred basis"
+412,Termination,0.369,3,"Partial Annuitization is only available on Non-Qualified Contracts, on or after the third Contract Anniversary"
+413,Warranty,0.64,2,"Partial Annuitization will be processed as of the date the written request from the Contract Owner and all required
+documentation is received by the Company"
+414,Warranty,0.489,2,"If you enter the Withdrawal Phase under either the Guaranteed Income Rider or the Accumulation Income
+Rider, partial Annuitization is no longer available to you"
+415,Indemnification,0.217,3,"You may only elect three partial Annuitizations during the life of your Contract, and at least 12 months must
+elapse between partial Annuitizations"
+416,Warranty,0.452,2,"The amount requested for partial Annuitization must be at least $5,000 and
+cannot exceed 50% of your Contract Value"
+417,Warranty,0.278,2,"21
 Partial Annuitization will decrease the Contract Value and Surrender Charge Basis dollar-for-dollar; it will
-decrease the death benefit base proportionately or dollar-for-dollar, whichever is greater",Warranty,0.278,2
-418,Amounts applied to partial Annuitization are not subject to Surrender Charges,Force Majeure,0.312,1
-419,"They are also not taxed as a
-withdrawal under the deferred Contract provided the Annuitization option includes a life contingency",Termination,0.327,3
-420,"Annuitized and non-annuitized portions of the Contract will be treated as separate Contracts for tax and
+decrease the death benefit base proportionately or dollar-for-dollar, whichever is greater"
+418,Force Majeure,0.312,1,Amounts applied to partial Annuitization are not subject to Surrender Charges
+419,Termination,0.327,3,"They are also not taxed as a
+withdrawal under the deferred Contract provided the Annuitization option includes a life contingency"
+420,Indemnification,0.455,3,"Annuitized and non-annuitized portions of the Contract will be treated as separate Contracts for tax and
 administrative purposes, and different Annuity Dates will be established with respect to the annuitized and
-non-annuitized portions of the Contract",Indemnification,0.455,3
-421,"For exclusion ratio purposes, “investment in the contract” will be allocated proportionately between the
-annuitized and non-annuitized portions of the Contract",Warranty,0.419,2
-422,"This proportional allocation will also apply for other tax
+non-annuitized portions of the Contract"
+421,Warranty,0.419,2,"For exclusion ratio purposes, “investment in the contract” will be allocated proportionately between the
+annuitized and non-annuitized portions of the Contract"
+422,Indemnification,0.245,3,"This proportional allocation will also apply for other tax
 treatment purposes under Code Section 72 governing the exclusion ratio, investment in the contract, expected return,
-annuity starting date, and amounts not received as an annuity",Indemnification,0.245,3
-423,"To be eligible for the exclusion ratio, the amounts must be received as an annuity for a period of 10 years or
-more, or for life",Confidentiality,0.282,1
-424,"We may change Contract provisions related to partial Annuitization, if required by IRS regulations or other
-applicable laws",Indemnification,0.478,3
-425,"Annuity Date
+annuity starting date, and amounts not received as an annuity"
+423,Confidentiality,0.282,1,"To be eligible for the exclusion ratio, the amounts must be received as an annuity for a period of 10 years or
+more, or for life"
+424,Indemnification,0.478,3,"We may change Contract provisions related to partial Annuitization, if required by IRS regulations or other
+applicable laws"
+425,Warranty,0.462,2,"Annuity Date
 The Annuity Date is the date on which annuity payments begin, transitioning from the accumulation phase to
-the Annuitization phase, based on the elected Annuity option or the default option",Warranty,0.462,2
-426,"The date annuity payments are
-scheduled to begin is shown on your Contract Specifications Page",Payment Terms,0.521,2
-427,"Unless another Annuity Date was specified on the
+the Annuitization phase, based on the elected Annuity option or the default option"
+426,Payment Terms,0.521,2,"The date annuity payments are
+scheduled to begin is shown on your Contract Specifications Page"
+427,Payment Terms,0.311,2,"Unless another Annuity Date was specified on the
 application or requested later by written notification, the Annuity Date will be set to the later of (a) the first Monthly
-Anniversary following the younger Annuitant reaching the Maturity Age, or (b) the 10th Contract Anniversary",Payment Terms,0.311,2
-428,"The
-Annuity Date must be at least one year after the Contract Date",Payment Terms,0.256,2
-429,"You may change the Annuity Date by sending a written request to our Administrative Office, which must be
-received by us at least 30 days before the current Annuity Date",Payment Terms,0.826,2
-430,"On the Annuity Date, the Contract Value, net of premium taxes if applicable, must be annuitized",Indemnification,0.404,3
-431,"Upon your
+Anniversary following the younger Annuitant reaching the Maturity Age, or (b) the 10th Contract Anniversary"
+428,Payment Terms,0.256,2,"The
+Annuity Date must be at least one year after the Contract Date"
+429,Payment Terms,0.826,2,"You may change the Annuity Date by sending a written request to our Administrative Office, which must be
+received by us at least 30 days before the current Annuity Date"
+430,Indemnification,0.404,3,"On the Annuity Date, the Contract Value, net of premium taxes if applicable, must be annuitized"
+431,Indemnification,0.379,3,"Upon your
 request or on the Annuity Date described in your Contract, you may apply the Contract Value to any of the annuity
 options available in the “Annuity Options” section of the Contract, at guaranteed annuity rates described in the
-Contract",Indemnification,0.379,3
-432,You can also elect to surrender the Contract and receive the Surrender Value,Termination,0.413,3
-433,"Any Contract Value applied to
+Contract"
+432,Termination,0.413,3,You can also elect to surrender the Contract and receive the Surrender Value
+433,Indemnification,0.64,3,"Any Contract Value applied to
 an Annuity Option on the Annuity Date will become part of the Company’s general account, which is subject to the
-claims of the Company’s creditors",Indemnification,0.64,3
-434,A notification that an Annuity option must be selected will be sent to you 60 days prior to your Annuity Date,Warranty,0.494,2
-435,You must select an Annuity option and notify us of your election at least 30 days prior to the Annuity Date,Payment Terms,0.613,2
-436,"In the event
+claims of the Company’s creditors"
+434,Warranty,0.494,2,A notification that an Annuity option must be selected will be sent to you 60 days prior to your Annuity Date
+435,Payment Terms,0.613,2,You must select an Annuity option and notify us of your election at least 30 days prior to the Annuity Date
+436,Warranty,0.754,2,"In the event
 no response is received from you, and if the Annuity Date is less than the maximum maturity date, the Annuity Date will
-be changed to the maximum maturity date",Warranty,0.754,2
-437,"If the maximum maturity date has been reached, and you did not specify an
-Annuity option, the Contract Value will be annuitized on the Annuity Date based on an applicable default option",Warranty,0.77,2
-438,"If the
+be changed to the maximum maturity date"
+437,Warranty,0.77,2,"If the maximum maturity date has been reached, and you did not specify an
+Annuity option, the Contract Value will be annuitized on the Annuity Date based on an applicable default option"
+438,Warranty,0.591,2,"If the
 Guaranteed Income Rider or the Accumulation Income Rider is in force on the Annuity Date, the default option will be
-determined by the state of the optional benefit features at the time",Warranty,0.591,2
-439,"If the Guaranteed Income Rider or the
+determined by the state of the optional benefit features at the time"
+439,Termination,0.324,3,"If the Guaranteed Income Rider or the
 Accumulation Income Rider is not in force on the Annuity Date, the default option is the Life Annuity with Period Certain
-of 10 years",Termination,0.324,3
-440,"Annuity Options
+of 10 years"
+440,Warranty,0.437,2,"Annuity Options
 On or after the first Contract Anniversary, you may choose to annuitize your Contract and apply your
 Contract Value to one of the following fixed Annuity options at guaranteed annuity rates described in the Contract:
  
  
 •
-  Period Certain-Only Option",Warranty,0.437,2
-441,"Provides periodic income payments for a guaranteed period ranging
+  Period Certain-Only Option"
+441,Confidentiality,0.369,1,"Provides periodic income payments for a guaranteed period ranging
 from five to 30 years (the guaranteed period may not exceed the Annuitant’s life expectancy as
-defined by the IRS Life Expectancy Table for Qualified Contracts)",Confidentiality,0.369,1
-442,"If the Annuitant dies prior to the
+defined by the IRS Life Expectancy Table for Qualified Contracts)"
+442,Indemnification,0.388,3,"If the Annuitant dies prior to the
 end of the guaranteed period, payments will continue to be paid to the designated Beneficiary(ies)
-until the end of the guaranteed period",Indemnification,0.388,3
-443,Provides periodic payments guaranteed for the lifetime of the Annuitant,Indemnification,0.434,3
-444,"The last
-payment will be the one that is due before the Annuitant’s death",Indemnification,0.269,3
-445,"Upon the death of the Annuitant,
-payments will cease and there will be no payments made to any Beneficiary",Indemnification,0.456,3
-446,"If the Annuitant dies
-before the first payment has been made, then no payments will be made under this option",Warranty,0.42,2
-447,"Provides periodic income payments for the lifetime of the Annuitant,
-which are guaranteed for a period of time (“Period Certain”)",Indemnification,0.366,3
-448,"The guaranteed period can range from
-five to 30 years",Termination,0.266,3
-449,"If the Annuitant dies prior to the end of the Period Certain, payments will continue to
-be paid to the designated Beneficiary(ies) until the end of the Period Certain",Indemnification,0.494,3
-450,"If the Annuitant lives
+until the end of the guaranteed period"
+443,Indemnification,0.434,3,Provides periodic payments guaranteed for the lifetime of the Annuitant
+444,Indemnification,0.269,3,"The last
+payment will be the one that is due before the Annuitant’s death"
+445,Indemnification,0.456,3,"Upon the death of the Annuitant,
+payments will cease and there will be no payments made to any Beneficiary"
+446,Warranty,0.42,2,"If the Annuitant dies
+before the first payment has been made, then no payments will be made under this option"
+447,Indemnification,0.366,3,"Provides periodic income payments for the lifetime of the Annuitant,
+which are guaranteed for a period of time (“Period Certain”)"
+448,Termination,0.266,3,"The guaranteed period can range from
+five to 30 years"
+449,Indemnification,0.494,3,"If the Annuitant dies prior to the end of the Period Certain, payments will continue to
+be paid to the designated Beneficiary(ies) until the end of the Period Certain"
+450,Indemnification,0.284,3,"If the Annuitant lives
 longer than the Period Certain, payments will continue until the Annuitant dies, but there will be no
-payment to any Beneficiary",Indemnification,0.284,3
-451,"Provides periodic payments for the lives of the Annuitant and the
-Joint Annuitant",Indemnification,0.714,3
-452,"Upon the death of either Annuitant, and based on the percentage initially selected,
+payment to any Beneficiary"
+451,Indemnification,0.714,3,"Provides periodic payments for the lives of the Annuitant and the
+Joint Annuitant"
+452,Intellectual Property,0.328,2,"Upon the death of either Annuitant, and based on the percentage initially selected,
 payments will continue at a level of 100%, 75%, 66 2/3%, or 50% of the original benefit amount for
-the lifetime of the surviving Annuitant",Intellectual Property,0.328,2
-453,"The initial payment will be made if either the Annuitant or the
-designated second Annuitant are living",Indemnification,0.481,3
-454,"Subsequent payments will continue during the joint lives of
-the Annuitants and thereafter during the life of the surviving Annuitant",Indemnification,0.445,3
-455,"Payments will end with the
-last payment due before the death of the last Annuitant to die",Payment Terms,0.373,2
-456,"After the deaths of both Annuitants,
-payments will cease and there will be no payments to any Beneficiary",Payment Terms,0.333,2
-457,"If both Annuitants die before
-the first payment has been made, then no payments will be made under this option",Warranty,0.366,2
-458,"•
-  Any other form of annuity that you and we may agree upon",Indemnification,0.518,3
-459,"If the maximum maturity date has been reached, and an Annuity option has not been specified by the
+the lifetime of the surviving Annuitant"
+453,Indemnification,0.481,3,"The initial payment will be made if either the Annuitant or the
+designated second Annuitant are living"
+454,Indemnification,0.445,3,"Subsequent payments will continue during the joint lives of
+the Annuitants and thereafter during the life of the surviving Annuitant"
+455,Payment Terms,0.373,2,"Payments will end with the
+last payment due before the death of the last Annuitant to die"
+456,Payment Terms,0.333,2,"After the deaths of both Annuitants,
+payments will cease and there will be no payments to any Beneficiary"
+457,Warranty,0.366,2,"If both Annuitants die before
+the first payment has been made, then no payments will be made under this option"
+458,Indemnification,0.518,3,"•
+  Any other form of annuity that you and we may agree upon"
+459,Warranty,0.463,2,"If the maximum maturity date has been reached, and an Annuity option has not been specified by the
 Contract Owner, the Contract Value will be annuitized on the Annuity Date based on a Life Annuity with Period Certain
-of 10 years (default option) unless otherwise provided under the Code",Warranty,0.463,2
-460,"Annuity Payments
+of 10 years (default option) unless otherwise provided under the Code"
+460,Warranty,0.318,2,"Annuity Payments
 The Contract Value on the day immediately preceding the Annuity Date, and the guaranteed annuity rates
-described in the Contract, will be used to determine the annuity payment",Warranty,0.318,2
-461,"If your Contract Value to be applied to the
-selected Annuity option on the Annuity Date is less than $5,000, we may pay you such amount in a lump sum",Warranty,0.364,2
-462,"The size of annuity payments is determined by a number of factors, including the amount of your
+described in the Contract, will be used to determine the annuity payment"
+461,Warranty,0.364,2,"If your Contract Value to be applied to the
+selected Annuity option on the Annuity Date is less than $5,000, we may pay you such amount in a lump sum"
+462,Warranty,0.553,2,"The size of annuity payments is determined by a number of factors, including the amount of your
 investment, your age at the time of Annuitization, the form of annuity chosen, the expected length of the annuity period,
-the frequency of annuity payments and their duration, and a guaranteed rate of return",Warranty,0.553,2
-463,"After annuity payments begin,
-no withdrawals may be made other than receipt of annuity payments",Payment Terms,0.726,2
-464,"The Annuity option cannot thereafter be changed,
-and the size of your annuity payments will not change",Warranty,0.593,2
-465,"The annuity benefits at the time of their commencement will not be less than those that would be provided
+the frequency of annuity payments and their duration, and a guaranteed rate of return"
+463,Payment Terms,0.726,2,"After annuity payments begin,
+no withdrawals may be made other than receipt of annuity payments"
+464,Warranty,0.593,2,"The Annuity option cannot thereafter be changed,
+and the size of your annuity payments will not change"
+465,Indemnification,0.45,3,"The annuity benefits at the time of their commencement will not be less than those that would be provided
 by the application of the Surrender Value to purchase a single premium immediate annuity contract at purchase rates
-offered by the Company at the time to the same class of Annuitants",Indemnification,0.45,3
-466,Annuity payments will generally start within 30 days after the Annuity Date,Payment Terms,0.912,2
-467,"We usually make annuity
-payments monthly, but we will pay you quarterly, semi-annually, or annually, if you prefer",Indemnification,0.317,3
-468,"The less frequently we make
-payments, the larger each payment will be",Warranty,0.467,2
-469,"If necessary, we will adjust the frequency of your payments so that
-payments are at least $50 each",Warranty,0.759,2
-470,"For information on the tax treatment of annuity payments, see “How Is the Contract
+offered by the Company at the time to the same class of Annuitants"
+466,Payment Terms,0.912,2,Annuity payments will generally start within 30 days after the Annuity Date
+467,Indemnification,0.317,3,"We usually make annuity
+payments monthly, but we will pay you quarterly, semi-annually, or annually, if you prefer"
+468,Warranty,0.467,2,"The less frequently we make
+payments, the larger each payment will be"
+469,Warranty,0.759,2,"If necessary, we will adjust the frequency of your payments so that
+payments are at least $50 each"
+470,Indemnification,0.266,3,"For information on the tax treatment of annuity payments, see “How Is the Contract
 Treated Under Federal Income Tax Law?” Payments under all options will be made to or at the direction of the Contract
-Owner and may be elected as early as the first Contract Anniversary",Indemnification,0.266,3
-471,"ADDITIONAL INFORMATION ABOUT FEES
+Owner and may be elected as early as the first Contract Anniversary"
+471,Warranty,0.274,2,"ADDITIONAL INFORMATION ABOUT FEES
 The following tables describe the fees and expenses that you will pay when buying, owning, and
-surrendering or making withdrawals from the Contract",Warranty,0.274,2
-472,"Please refer to your Contract Specifications Page for
-information about the specific fees you will pay each year based on the options you have elected",Warranty,0.467,2
-473,"The first table describes the fees and expenses that you will pay at the time that you buy the
+surrendering or making withdrawals from the Contract"
+472,Warranty,0.467,2,"Please refer to your Contract Specifications Page for
+information about the specific fees you will pay each year based on the options you have elected"
+473,Warranty,0.612,2,"The first table describes the fees and expenses that you will pay at the time that you buy the
 Contract, surrender, or make withdrawals from the Contract, or transfer Contract Value between Investment
-Options",Warranty,0.612,2
-474,"1
+Options"
+474,Termination,0.225,3,"1
  
 23
 Transaction Expenses
@@ -1784,20 +1784,20 @@ Transaction Expenses
 Sales Load Imposed on Purchases (as a percentage of Purchase Payments)
     None 
 Maximum Surrender Charges (as a percentage of Purchase Payment surrendered)
-   8",Termination,0.225,3
-475,"00%2 
+   8"
+475,Intellectual Property,0.319,2,"00%2 
 Maximum Transfer Fee
    
 $203 
   
 1
-As of the date of this Summary Prospectus state premium taxes generally range from 0",Intellectual Property,0.319,2
-476,"2
-Surrender Charges are expressed as a percentage of the amount of the Purchase Payment surrendered and may vary by state",Warranty,0.291,2
-477,"The percentage
+As of the date of this Summary Prospectus state premium taxes generally range from 0"
+476,Warranty,0.291,2,"2
+Surrender Charges are expressed as a percentage of the amount of the Purchase Payment surrendered and may vary by state"
+477,Warranty,0.556,2,"The percentage
 charge we use is determined by the number of years since receipt of the Purchase Payment to which the charge relates if you make a
-withdrawal or surrender your Contract to receive its cash value",Warranty,0.556,2
-478,"Number of full years since
+withdrawal or surrender your Contract to receive its cash value"
+478,Intellectual Property,0.612,2,"Number of full years since
 Purchase Payment
   
 Applicable
@@ -1805,97 +1805,97 @@ Surrender Charge
  
 0
   
-8",Intellectual Property,0.612,2
-479,"00%
+8"
+479,Intellectual Property,0.339,2,"00%
  
 3
-For transfers other than Dollar Cost Averaging and Automatic Asset Rebalancing, the transfer fee is currently $0",Intellectual Property,0.339,2
-480,"We reserve the right to restrict
-frequency of transfers or market timing in our sole discretion, and to impose a transfer fee in the future",Indemnification,0.431,3
-481,"Any transfer fee we impose would not
-exceed $20",Confidentiality,0.376,1
-482,"The next table describes the fees and expenses that you will pay each year during the time that you
-own the Contract (not including Portfolio fees and expenses)",Warranty,0.376,2
-483,"If you choose to purchase an optional benefit, you will pay additional charges, as shown below",Warranty,0.348,2
-484,"The
-charges shown below represent the maximum fees for each of the optional benefits",Warranty,0.324,2
-485,"The current charges are
-shown in the accompanying footnotes",Force Majeure,0.275,1
-486,"Annual Contract Expenses
+For transfers other than Dollar Cost Averaging and Automatic Asset Rebalancing, the transfer fee is currently $0"
+480,Indemnification,0.431,3,"We reserve the right to restrict
+frequency of transfers or market timing in our sole discretion, and to impose a transfer fee in the future"
+481,Confidentiality,0.376,1,"Any transfer fee we impose would not
+exceed $20"
+482,Warranty,0.376,2,"The next table describes the fees and expenses that you will pay each year during the time that you
+own the Contract (not including Portfolio fees and expenses)"
+483,Warranty,0.348,2,"If you choose to purchase an optional benefit, you will pay additional charges, as shown below"
+484,Warranty,0.324,2,"The
+charges shown below represent the maximum fees for each of the optional benefits"
+485,Force Majeure,0.275,1,"The current charges are
+shown in the accompanying footnotes"
+486,Intellectual Property,0.33,2,"Annual Contract Expenses
  
 Administrative Expenses
    
 $401 
 Base Contract Expenses (as a percentage of Variable Account Value)2
-   1",Intellectual Property,0.33,2
-487,"40% 
+   1"
+487,Intellectual Property,0.313,2,"40% 
 Optional Benefit Expenses (as a percentage of benefit base or Variable Account Value as applicable):   
 Accumulation Income Rider
-   2",Intellectual Property,0.313,2
-488,"75%5 
+   2"
+488,Intellectual Property,0.306,2,"75%5 
 Guaranteed Minimum Accumulation Rider
-   1",Intellectual Property,0.306,2
-489,"00% of the Variable Account Value, whichever is less",Warranty,0.698,2
-490,"You do not pay this charge if your Variable Account Value is $50,000 or
-more",Warranty,0.386,2
-491,"2
-Amount shown does not include any optional benefit Riders",Intellectual Property,0.205,2
-492,"3
-The current annual charge for the Accumulation Income Rider is 1",Intellectual Property,0.434,2
-493,"The
+   1"
+489,Warranty,0.698,2,"00% of the Variable Account Value, whichever is less"
+490,Warranty,0.386,2,"You do not pay this charge if your Variable Account Value is $50,000 or
+more"
+491,Intellectual Property,0.205,2,"2
+Amount shown does not include any optional benefit Riders"
+492,Intellectual Property,0.434,2,"3
+The current annual charge for the Accumulation Income Rider is 1"
+493,Termination,0.261,3,"The
 charge is expressed as an annual percentage; it will be assessed on the Accumulation Income Benefit Base and will be deducted from the
-Contract Value on a quarterly basis",Termination,0.261,3
-494,"4
-The current annual charge for the Guaranteed Income Rider is 1",Termination,0.307,3
-495,"The
+Contract Value on a quarterly basis"
+494,Termination,0.307,3,"4
+The current annual charge for the Guaranteed Income Rider is 1"
+495,Termination,0.261,3,"The
 charge is expressed as an annual percentage; it will be assessed on the Guaranteed Income Benefit Base and will be deducted from the
-Contract Value on a quarterly basis",Termination,0.261,3
-496,"5
-The current annual charge for the Enhanced Death Benefit Rider is 0",Intellectual Property,0.448,2
-497,"The charge is expressed as an annual percentage; it will be
-assessed on the Enhanced Death Benefit Base and will be deducted from the Contract Value on a quarterly basis",Warranty,0.261,2
-498,"6
-The current annual charge for the Guaranteed Minimum Accumulation Rider is 0",Warranty,0.285,2
-499,"The charge is expressed as an annual percentage; it will
-be assessed on the Accumulation Benefit Base and will be deducted from the Contract Value on a quarterly basis",Warranty,0.259,2
-500,"24
+Contract Value on a quarterly basis"
+496,Intellectual Property,0.448,2,"5
+The current annual charge for the Enhanced Death Benefit Rider is 0"
+497,Warranty,0.261,2,"The charge is expressed as an annual percentage; it will be
+assessed on the Enhanced Death Benefit Base and will be deducted from the Contract Value on a quarterly basis"
+498,Warranty,0.285,2,"6
+The current annual charge for the Guaranteed Minimum Accumulation Rider is 0"
+499,Warranty,0.259,2,"The charge is expressed as an annual percentage; it will
+be assessed on the Accumulation Benefit Base and will be deducted from the Contract Value on a quarterly basis"
+500,Warranty,0.295,2,"24
 Portfolios’ Annual Operating Expenses
 The next table shows the minimum and maximum total operating expenses charged by the
-Portfolios that you may pay periodically during the time that you own the Contract",Warranty,0.295,2
-501,"Portfolio expenses may be
-higher or lower in the future",Confidentiality,0.277,1
-502,"A complete list of Portfolios available under the Contract, including their annual
-expenses, may be found in Appendix A to this Summary Prospectus",Indemnification,0.364,3
-503,"Annual Portfolio Expenses1
+Portfolios that you may pay periodically during the time that you own the Contract"
+501,Confidentiality,0.277,1,"Portfolio expenses may be
+higher or lower in the future"
+502,Indemnification,0.364,3,"A complete list of Portfolios available under the Contract, including their annual
+expenses, may be found in Appendix A to this Summary Prospectus"
+503,Intellectual Property,0.348,2,"Annual Portfolio Expenses1
   
 Minimum  
 Maximum
 (expenses that are deducted from Portfolio assets, including management fees,
 distribution (12b-1) fees, and other expenses)
   
-0",Intellectual Property,0.348,2
-504,"41%
+0"
+504,Intellectual Property,0.677,2,"41%
   
 1
-Expressed as a percentage of average net assets for the fiscal year ended December 31, 2022",Intellectual Property,0.677,2
-505,"Fund expenses may be higher or lower in the
-future",Payment Terms,0.38,2
-506,"This information is provided by the Portfolios and their agents, and is based on the expenses of each Portfolio’s most recently completed
-fiscal year",Warranty,0.336,2
-507,"EXAMPLES
+Expressed as a percentage of average net assets for the fiscal year ended December 31, 2022"
+505,Payment Terms,0.38,2,"Fund expenses may be higher or lower in the
+future"
+506,Warranty,0.336,2,"This information is provided by the Portfolios and their agents, and is based on the expenses of each Portfolio’s most recently completed
+fiscal year"
+507,Warranty,0.489,2,"EXAMPLES
 These examples are intended to help you compare the cost of investing in the Contract with the cost of
-investing in other variable annuity contracts",Warranty,0.489,2
-508,"These costs include transaction expenses, annual Contract expenses, and
-annual Portfolio expenses",Confidentiality,0.283,1
-509,"The examples assume that you invest $100,000 in the Contract for the time periods indicated",Warranty,0.653,2
-510,"The
-Example also assumes that your investment has a 5",Warranty,0.663,2
-511,"The maximum expenses examples
+investing in other variable annuity contracts"
+508,Confidentiality,0.283,1,"These costs include transaction expenses, annual Contract expenses, and
+annual Portfolio expenses"
+509,Warranty,0.653,2,"The examples assume that you invest $100,000 in the Contract for the time periods indicated"
+510,Warranty,0.663,2,"The
+Example also assumes that your investment has a 5"
+511,Warranty,0.473,2,"The maximum expenses examples
 assume the most expensive combination of annual Portfolio expenses and optional benefits available for an
-additional charge",Warranty,0.473,2
-512,"The minimum expenses examples assume the least expensive annual Portfolio expenses
-and that no optional benefits are purchased",Warranty,0.483,2
-513,"Although your actual costs may be higher or lower, based on
+additional charge"
+512,Warranty,0.483,2,"The minimum expenses examples assume the least expensive annual Portfolio expenses
+and that no optional benefits are purchased"
+513,Termination,0.441,3,"Although your actual costs may be higher or lower, based on
 these assumptions, your costs would be:
 Maximum Expenses Examples
 If you surrender your Contract at the end of the applicable time period and have purchased optional benefits
@@ -2003,37 +2003,37 @@ $8,237
 $18,015
  
  
-1   Assumes the Accumulation Income Rider and the Enhanced Death Benefit Rider are purchased and maximum Rider Charges of 3",Termination,0.441,3
-514,"This
-Example also assumes maximum Portfolio expenses of 0",Warranty,0.53,2
-515,2   Assumes that no optional benefit Riders are purchased and minimum Portfolio expenses of 0,Warranty,0.711,2
-516,Certain Contract charges are currently assessed at less than their maximum levels,Warranty,0.245,2
-517,"We may increase these
-current charges in the future up to the guaranteed maximum levels, as determined in the Company’s sole discretion",Warranty,0.31,2
-518,"Without limiting the foregoing, the Company may increase current charges due to the Company’s experience with
+1   Assumes the Accumulation Income Rider and the Enhanced Death Benefit Rider are purchased and maximum Rider Charges of 3"
+514,Warranty,0.53,2,"This
+Example also assumes maximum Portfolio expenses of 0"
+515,Warranty,0.711,2,2   Assumes that no optional benefit Riders are purchased and minimum Portfolio expenses of 0
+516,Warranty,0.245,2,Certain Contract charges are currently assessed at less than their maximum levels
+517,Warranty,0.31,2,"We may increase these
+current charges in the future up to the guaranteed maximum levels, as determined in the Company’s sole discretion"
+518,Confidentiality,0.362,1,"Without limiting the foregoing, the Company may increase current charges due to the Company’s experience with
 respect to mortality, expenses, taxes, persistency, capital requirements, reserve requirements, and changes in
-applicable laws",Confidentiality,0.362,1
-519,"Although some Portfolios may have expense limitation agreements, the operating expenses of the
-Portfolios are not guaranteed and may increase or decrease over time",Warranty,0.378,2
-520,"26
+applicable laws"
+519,Warranty,0.378,2,"Although some Portfolios may have expense limitation agreements, the operating expenses of the
+Portfolios are not guaranteed and may increase or decrease over time"
+520,Warranty,0.221,2,"26
  
 APPENDIX A
 PORTFOLIO COMPANIES AVAILABLE UNDER THE DEFERRED VARIABLE ANNUITY CONTRACT
-The following is a list of Portfolios available under the Contract",Warranty,0.221,2
-521,"More information about the Portfolios is
+The following is a list of Portfolios available under the Contract"
+521,Warranty,0.447,2,"More information about the Portfolios is
 available in the prospectuses for the Portfolios, which may be amended from time to time and can be found online at
-www",Warranty,0.447,2
-522,com/for-individuals-and-businesses/products-and-performance/performance-and-rates,Intellectual Property,0.377,2
-523,"You can also
+www"
+522,Intellectual Property,0.377,2,com/for-individuals-and-businesses/products-and-performance/performance-and-rates
+523,Warranty,0.738,2,"You can also
 request this information at no cost by calling 1-800-523-0650 or by sending an email request to
-FundOperations@pennmutual",Warranty,0.738,2
-524,"The current expenses and performance information below reflects fees and expenses of the Portfolios, but
-does not reflect the other fees and expenses that your Contract may charge",Warranty,0.36,2
-525,"Expenses would be higher and
-performance would be lower if these other charges were included",Warranty,0.398,2
-526,"Each Portfolio’s past performance is not necessarily
-an indication of future performance",Confidentiality,0.422,1
-527,"PORTFOLIO
+FundOperations@pennmutual"
+524,Warranty,0.36,2,"The current expenses and performance information below reflects fees and expenses of the Portfolios, but
+does not reflect the other fees and expenses that your Contract may charge"
+525,Warranty,0.398,2,"Expenses would be higher and
+performance would be lower if these other charges were included"
+526,Confidentiality,0.422,1,"Each Portfolio’s past performance is not necessarily
+an indication of future performance"
+527,Intellectual Property,0.28,2,"PORTFOLIO
 TYPE
   
 PORTFOLIO AND
@@ -2050,22 +2050,22 @@ Large Blend
   
 Equity Index Portfolio
  
-The Vanguard Group, Inc",Intellectual Property,0.28,2
-528,"40%
+The Vanguard Group, Inc"
+528,Intellectual Property,0.39,2,"40%
 Domestic
 Large Blend
   
 Total Stock Market Index Portfolio
  
-The Vanguard Group, Inc",Intellectual Property,0.39,2
-529,"92%
+The Vanguard Group, Inc"
+529,Intellectual Property,0.287,2,"92%
 Intermediate-
 Term Bond
   
 Global Bond Index Portfolio
  
-The Vanguard Group, Inc",Intellectual Property,0.287,2
-530,"12%
+The Vanguard Group, Inc"
+530,Intellectual Property,0.36,2,"12%
   
 N/A
 Domestic Mid
@@ -2073,30 +2073,30 @@ Blend
   
 Mid-Cap Index Portfolio
  
-The Vanguard Group, Inc",Intellectual Property,0.36,2
-531,"95%
+The Vanguard Group, Inc"
+531,Intellectual Property,0.526,2,"95%
 Moderate
 Allocation
   
 Moderate Allocation Portfolio
  
-The Vanguard Group, Inc",Intellectual Property,0.526,2
-532,"14%
+The Vanguard Group, Inc"
+532,Confidentiality,0.289,1,"14%
 Intermediate-
 Term Bond
   
 Total Bond Market Index Portfolio
  
-The Vanguard Group, Inc",Confidentiality,0.289,1
-533,"92%
+The Vanguard Group, Inc"
+533,Intellectual Property,0.449,2,"92%
 International
 Large Blend
   
 Total International Stock Market Index
 Portfolio
  
-The Vanguard Group, Inc",Intellectual Property,0.449,2
-534,"01%
+The Vanguard Group, Inc"
+534,Intellectual Property,0.473,2,"01%
   
 N/A
 Conservative
@@ -2104,8 +2104,8 @@ Allocation
   
 Conservative Allocation Portfolio
  
-The Vanguard Group, Inc",Intellectual Property,0.473,2
-535,"52%
+The Vanguard Group, Inc"
+535,Intellectual Property,0.652,2,"52%
 Moderate
 Allocation
   
@@ -2114,8 +2114,8 @@ Balanced Portfolio
 Wellington Management Company LLP
 (Adviser)
   
-0",Intellectual Property,0.652,2
-536,"41%
+0"
+536,Intellectual Property,0.727,2,"41%
 Domestic
 Large Growth
   
@@ -2124,8 +2124,8 @@ Capital Growth Portfolio
 PRIMECAP Management Company
 (Adviser)
   
-0",Intellectual Property,0.727,2
-537,"75%
+0"
+537,Intellectual Property,0.471,2,"75%
 Domestic
 Large Value
   
@@ -2135,8 +2135,8 @@ Hotchkis and Wiley Capital
 Management LLC (Adviser) and Lazard
 Asset Management LLC (Adviser)
   
-0",Intellectual Property,0.471,2
-538,"08%
+0"
+538,Intellectual Property,0.517,2,"08%
  
 A-1
 PORTFOLIO
@@ -2157,8 +2157,8 @@ Equity Income Portfolio
  
 Wellington Management Company
 LLP (Adviser) and The Vanguard
-Group, Inc",Intellectual Property,0.517,2
-539,"58%
+Group, Inc"
+539,Intellectual Property,0.8,2,"58%
 Domestic
 Large Growth
   
@@ -2167,8 +2167,8 @@ Growth Portfolio
 Wellington Management Company
 LLP (Adviser)
   
-0",Intellectual Property,0.8,2
-540,"49%
+0"
+540,Intellectual Property,0.236,2,"49%
 High Yield
 Bond
   
@@ -2176,24 +2176,24 @@ High Yield Bond Portfolio
  
 Wellington Management Company
 LLP (Adviser) and The Vanguard
-Group, Inc",Intellectual Property,0.236,2
-541,"64%
+Group, Inc"
+541,Intellectual Property,0.473,2,"64%
 International
 Large Growth
   
 International Portfolio
  
-Baillie Gifford Overseas Ltd",Intellectual Property,0.473,2
-542,"(Adviser)
+Baillie Gifford Overseas Ltd"
+542,Confidentiality,0.244,1,"(Adviser)
 and Schroder Investment
-Management North America Inc",Confidentiality,0.244,1
-543,"58%
+Management North America Inc"
+543,Intellectual Property,0.344,2,"58%
 Real Estate
   
 Real Estate Index Portfolio
  
-The Vanguard Group, Inc",Intellectual Property,0.344,2
-544,"36%
+The Vanguard Group, Inc"
+544,Intellectual Property,0.454,2,"36%
 Domestic
 Small Growth
   
@@ -2201,17 +2201,17 @@ Small Company Growth Portfolio
  
 ArrowMark Colorado Holdings LLC
 (Adviser) and The Vanguard Group,
-Inc",Intellectual Property,0.454,2
-545,"06%
+Inc"
+545,Warranty,0.593,2,"06%
  
 A-2
 The Prospectus and Statement of Additional Information (the “SAI”) include additional information about the
-Deferred Variable Annuity Contract",Warranty,0.593,2
-546,"These documents are available without charge upon request from The Penn
-Insurance and Annuity Company, Attn: SAI Request, PO Box 178, Philadelphia, Pennsylvania 19105",Payment Terms,0.357,2
-547,"Or you can call
-us toll-free at 1-800-523-0650 or visit our website at www",Payment Terms,0.297,2
-548,"The Prospectus and SAI, both dated [insert
+Deferred Variable Annuity Contract"
+546,Payment Terms,0.357,2,"These documents are available without charge upon request from The Penn
+Insurance and Annuity Company, Attn: SAI Request, PO Box 178, Philadelphia, Pennsylvania 19105"
+547,Payment Terms,0.297,2,"Or you can call
+us toll-free at 1-800-523-0650 or visit our website at www"
+548,Governing Law,0.335,1,"The Prospectus and SAI, both dated [insert
 date] are incorporated by reference into this Summary Prospectus and, therefore, both are legally a part of this
-Summary Prospectus",Governing Law,0.335,1
-549,The SEC EDGAR Contract Identifier for the Deferred Variable Annuity Contract is C000245971,Warranty,0.562,2
+Summary Prospectus"
+549,Warranty,0.562,2,The SEC EDGAR Contract Identifier for the Deferred Variable Annuity Contract is C000245971

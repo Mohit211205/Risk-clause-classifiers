@@ -1,21 +1,15 @@
-import fitz  # PyMuPDF
+import fitz
 import torch
 import pandas as pd
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
+from collections import Counter
 
-# ============================
-# LOAD TRAINED MODEL
-# ============================
-
+# load model
 model_path = "risk_clause_model"
-
 tokenizer = AutoTokenizer.from_pretrained(model_path)
 model = AutoModelForSequenceClassification.from_pretrained(model_path)
 
-# ============================
-# RISK WEIGHTS
-# ============================
-
+# risk weights
 risk_weights = {
     "Termination": 3,
     "Liability": 3,
@@ -28,25 +22,20 @@ risk_weights = {
     "Intellectual Property": 2
 }
 
-# ============================
-# EXTRACT TEXT FROM PDF
-# ============================
 
+# extract pdf text
 def extract_text_from_pdf(pdf_path):
 
     doc = fitz.open(pdf_path)
-    text = ""
 
+    text = ""
     for page in doc:
         text += page.get_text()
 
     return text
 
 
-# ============================
-# SPLIT INTO CLAUSES
-# ============================
-
+# split clauses
 def split_clauses(text):
 
     clauses = text.split(".")
@@ -55,10 +44,7 @@ def split_clauses(text):
     return clauses
 
 
-# ============================
-# PREDICT CLAUSE CATEGORY
-# ============================
-
+# predict
 def predict_clause(text):
 
     inputs = tokenizer(
@@ -73,55 +59,47 @@ def predict_clause(text):
 
     probs = torch.nn.functional.softmax(outputs.logits, dim=1)
 
-    predicted_class_id = torch.argmax(probs).item()
+    pred_id = torch.argmax(probs).item()
 
-    category = model.config.id2label[predicted_class_id]
+    category = model.config.id2label[pred_id]
 
-    confidence = probs[0][predicted_class_id].item()
+    confidence = probs[0][pred_id].item()
 
     return category, confidence
 
 
-# ============================
-# MAIN ANALYZER
-# ============================
-
+# analyzer
 def analyze_contract(pdf_path):
 
-    text = extract_text_from_pdf(pdf_path)
+    print("\nAnalyzing contract...\n")
 
+    text = extract_text_from_pdf(pdf_path)
     clauses = split_clauses(text)
 
-    print("\nContract Analysis Results:\n")
-
     results = []
-
-    total_risk_score = 0
+    total_risk = 0
+    categories = []
 
     for i, clause in enumerate(clauses):
 
         category, confidence = predict_clause(clause)
 
-        risk_score = risk_weights.get(category, 1)
+        risk = risk_weights.get(category, 1)
 
-        total_risk_score += risk_score
-
-        print(f"Clause {i+1}: {category} (confidence: {confidence:.2f})")
+        total_risk += risk
+        categories.append(category)
 
         results.append({
             "Clause_Number": i+1,
-            "Clause_Text": clause,
             "Category": category,
             "Confidence": round(confidence, 3),
-            "Risk_Score": risk_score
+            "Risk_Score": risk,
+            "Clause_Text": clause
         })
 
 
-    # ============================
-    # FINAL VERDICT LOGIC
-    # ============================
-
-    avg_risk = total_risk_score / len(clauses)
+    # summary
+    avg_risk = total_risk / len(clauses)
 
     if avg_risk >= 2.5:
         verdict = "HIGH RISK"
@@ -131,27 +109,29 @@ def analyze_contract(pdf_path):
         verdict = "LOW RISK"
 
 
-    print("\n===========================")
-    print("TOTAL CLAUSES:", len(clauses))
-    print("TOTAL RISK SCORE:", total_risk_score)
-    print("AVERAGE RISK:", round(avg_risk, 2))
-    print("FINAL VERDICT:", verdict)
-    print("===========================\n")
+    category_counts = Counter(categories)
 
 
-    # ============================
-    # SAVE CSV REPORT
-    # ============================
+    # clean output
+    print("========== CONTRACT SUMMARY ==========\n")
 
+    print("Total Clauses:", len(clauses))
+    print("Average Risk Score:", round(avg_risk, 2))
+    print("Final Verdict:", verdict)
+
+    print("\nClause Category Distribution:")
+
+    for cat, count in category_counts.items():
+        print(f"{cat}: {count}")
+
+    print("\nFull results saved in contract_analysis_results.csv")
+    print("=====================================\n")
+
+
+    # save csv
     df = pd.DataFrame(results)
-
     df.to_csv("contract_analysis_results.csv", index=False)
 
-    print("Saved report → contract_analysis_results.csv")
 
-
-# ============================
-# RUN ANALYSIS
-# ============================
-
+# run
 analyze_contract("contract.pdf")
