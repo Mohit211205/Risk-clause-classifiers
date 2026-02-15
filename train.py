@@ -14,11 +14,25 @@ from sklearn.metrics import accuracy_score, f1_score, classification_report
 # LOAD DATA
 # ------------------------
 
+<<<<<<< HEAD
+df = pd.read_csv("risk_clause_labeled.csv")
+=======
 df = pd.read_csv("risk_clause_labelled.csv")
+>>>>>>> 9f485b5 (merged github and local repo)
 
 df = df.dropna()
 df = df.drop_duplicates()
 
+<<<<<<< HEAD
+labels = df["label"].unique().tolist()
+label2id = {label: i for i, label in enumerate(labels)}
+id2label = {i: label for label, i in label2id.items()}
+
+df["label_id"] = df["label"].map(label2id)
+
+dataset = Dataset.from_pandas(df[["clause_text", "label_id"]])
+dataset = dataset.train_test_split(test_size=0.2, stratify_by_column="label_id")
+=======
 labels = df["Category"].unique().tolist()
 label2id = {label: i for i, label in enumerate(labels)}
 id2label = {i: label for label, i in label2id.items()}
@@ -26,6 +40,7 @@ id2label = {i: label for label, i in label2id.items()}
 df["labels"] = df["Category"].map(label2id)
 dataset = Dataset.from_pandas(df[["Clause_Text", "labels"]])
 dataset = dataset.train_test_split(test_size=0.2)
+>>>>>>> 9f485b5 (merged github and local repo)
 
 # ------------------------
 # TOKENIZER
@@ -35,7 +50,11 @@ tokenizer = AutoTokenizer.from_pretrained("distilbert-base-uncased")
 
 def tokenize(batch):
     return tokenizer(
+<<<<<<< HEAD
+        batch["clause_text"],
+=======
         batch["Clause_Text"],
+>>>>>>> 9f485b5 (merged github and local repo)
         padding="max_length",
         truncation=True,
         max_length=256
@@ -43,9 +62,14 @@ def tokenize(batch):
 
 dataset = dataset.map(tokenize, batched=True)
 
+<<<<<<< HEAD
+dataset = dataset.remove_columns(["clause_text"])
+dataset.set_format("torch")
+=======
 dataset = dataset.remove_columns(["Clause_Text"])
 dataset.set_format(type="torch", columns=["input_ids", "attention_mask", "labels"])
 
+>>>>>>> 9f485b5 (merged github and local repo)
 
 # ------------------------
 # MODEL
